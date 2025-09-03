@@ -1,0 +1,7 @@
+[project]
+name = "floatchat"
+version = "0.1.0"
+description = "An AI assistant that turns oceanographic data into answers. Skip complex portals and formats—just ask, “Show warm water near Madagascar in 2023” or “Compare salinity in the Arabian Sea vs Bay of Bengal”—and get instant results with clear visualizations."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
