@@ -1,0 +1,2744 @@
+Argo Float Search Results
+==================================================
+
+Base URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/
+Years searched: 2017, 2018, 2019, 2020
+Total selected floats: 20
+Floats with data found: 20
+Download directory: C:\Users\MayanksPotato\Desktop\FloatChat\data\raw
+
+Selected Float IDs:
+--------------------
+1901346
+1901792
+1902029
+1902196
+1902251
+2902156
+2902197
+2902302
+3901222
+5902369
+5902504
+5904448
+5904572
+5904729
+5905020
+5906218
+5906280
+7900333
+7900647
+7900903
+
+Detailed Results:
+--------------------
+
+Float 1901346:
+  2019/06: nodc_R1901346_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R1901346_169.nc
+    Local file: 1901346_2019_06_nodc_R1901346_169.nc
+  2019/06: nodc_R1901346_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R1901346_170.nc
+    Local file: 1901346_2019_06_nodc_R1901346_170.nc
+  2019/07: nodc_R1901346_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1901346_171.nc
+    Local file: 1901346_2019_07_nodc_R1901346_171.nc
+  2019/07: nodc_R1901346_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1901346_172.nc
+    Local file: 1901346_2019_07_nodc_R1901346_172.nc
+  2019/07: nodc_R1901346_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1901346_173.nc
+    Local file: 1901346_2019_07_nodc_R1901346_173.nc
+  2019/08: nodc_R1901346_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1901346_174.nc
+    Local file: 1901346_2019_08_nodc_R1901346_174.nc
+  2019/08: nodc_R1901346_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1901346_175.nc
+    Local file: 1901346_2019_08_nodc_R1901346_175.nc
+  2019/08: nodc_R1901346_176.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1901346_176.nc
+    Local file: 1901346_2019_08_nodc_R1901346_176.nc
+  2019/09: nodc_R1901346_177.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1901346_177.nc
+    Local file: 1901346_2019_09_nodc_R1901346_177.nc
+  2019/09: nodc_R1901346_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1901346_178.nc
+    Local file: 1901346_2019_09_nodc_R1901346_178.nc
+  2019/09: nodc_R1901346_179.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1901346_179.nc
+    Local file: 1901346_2019_09_nodc_R1901346_179.nc
+  2019/10: nodc_R1901346_180.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901346_180.nc
+    Local file: 1901346_2019_10_nodc_R1901346_180.nc
+  2019/10: nodc_R1901346_181.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901346_181.nc
+    Local file: 1901346_2019_10_nodc_R1901346_181.nc
+  2019/10: nodc_R1901346_182.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901346_182.nc
+    Local file: 1901346_2019_10_nodc_R1901346_182.nc
+  2019/11: nodc_R1901346_183.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901346_183.nc
+    Local file: 1901346_2019_11_nodc_R1901346_183.nc
+  2019/11: nodc_R1901346_184.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901346_184.nc
+    Local file: 1901346_2019_11_nodc_R1901346_184.nc
+  2019/11: nodc_R1901346_185.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901346_185.nc
+    Local file: 1901346_2019_11_nodc_R1901346_185.nc
+  2019/12: nodc_R1901346_186.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901346_186.nc
+    Local file: 1901346_2019_12_nodc_R1901346_186.nc
+  2019/12: nodc_R1901346_187.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901346_187.nc
+    Local file: 1901346_2019_12_nodc_R1901346_187.nc
+  2019/12: nodc_R1901346_188.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901346_188.nc
+    Local file: 1901346_2019_12_nodc_R1901346_188.nc
+  2020/01: nodc_R1901346_189.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901346_189.nc
+    Local file: 1901346_2020_01_nodc_R1901346_189.nc
+  2020/01: nodc_R1901346_190.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901346_190.nc
+    Local file: 1901346_2020_01_nodc_R1901346_190.nc
+  2020/01: nodc_R1901346_191.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901346_191.nc
+    Local file: 1901346_2020_01_nodc_R1901346_191.nc
+  2020/01: nodc_R1901346_192.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901346_192.nc
+    Local file: 1901346_2020_01_nodc_R1901346_192.nc
+  2020/02: nodc_R1901346_193.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901346_193.nc
+    Local file: 1901346_2020_02_nodc_R1901346_193.nc
+  2020/02: nodc_R1901346_194.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901346_194.nc
+    Local file: 1901346_2020_02_nodc_R1901346_194.nc
+  2020/02: nodc_R1901346_195.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901346_195.nc
+    Local file: 1901346_2020_02_nodc_R1901346_195.nc
+  2020/03: nodc_R1901346_196.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901346_196.nc
+    Local file: 1901346_2020_03_nodc_R1901346_196.nc
+  2020/03: nodc_R1901346_197.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901346_197.nc
+    Local file: 1901346_2020_03_nodc_R1901346_197.nc
+  2020/03: nodc_R1901346_198.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901346_198.nc
+    Local file: 1901346_2020_03_nodc_R1901346_198.nc
+  2020/04: nodc_R1901346_199.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901346_199.nc
+    Local file: 1901346_2020_04_nodc_R1901346_199.nc
+  2020/04: nodc_R1901346_200.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901346_200.nc
+    Local file: 1901346_2020_04_nodc_R1901346_200.nc
+  2020/04: nodc_R1901346_201.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901346_201.nc
+    Local file: 1901346_2020_04_nodc_R1901346_201.nc
+  2020/05: nodc_R1901346_202.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901346_202.nc
+    Local file: 1901346_2020_05_nodc_R1901346_202.nc
+  2020/05: nodc_R1901346_203.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901346_203.nc
+    Local file: 1901346_2020_05_nodc_R1901346_203.nc
+  2020/05: nodc_R1901346_204.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901346_204.nc
+    Local file: 1901346_2020_05_nodc_R1901346_204.nc
+  2020/06: nodc_R1901346_205.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901346_205.nc
+    Local file: 1901346_2020_06_nodc_R1901346_205.nc
+  2020/06: nodc_R1901346_206.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901346_206.nc
+    Local file: 1901346_2020_06_nodc_R1901346_206.nc
+  2020/06: nodc_R1901346_207.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901346_207.nc
+    Local file: 1901346_2020_06_nodc_R1901346_207.nc
+  2020/07: nodc_R1901346_208.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901346_208.nc
+    Local file: 1901346_2020_07_nodc_R1901346_208.nc
+  2020/07: nodc_R1901346_209.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901346_209.nc
+    Local file: 1901346_2020_07_nodc_R1901346_209.nc
+  2020/07: nodc_R1901346_210.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901346_210.nc
+    Local file: 1901346_2020_07_nodc_R1901346_210.nc
+  2020/08: nodc_R1901346_211.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901346_211.nc
+    Local file: 1901346_2020_08_nodc_R1901346_211.nc
+  2020/08: nodc_R1901346_212.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901346_212.nc
+    Local file: 1901346_2020_08_nodc_R1901346_212.nc
+  2020/08: nodc_R1901346_213.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901346_213.nc
+    Local file: 1901346_2020_08_nodc_R1901346_213.nc
+  2020/09: nodc_R1901346_214.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1901346_214.nc
+    Local file: 1901346_2020_09_nodc_R1901346_214.nc
+  2020/09: nodc_R1901346_215.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1901346_215.nc
+    Local file: 1901346_2020_09_nodc_R1901346_215.nc
+  2020/09: nodc_R1901346_216.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1901346_216.nc
+    Local file: 1901346_2020_09_nodc_R1901346_216.nc
+
+Float 1901792:
+  2019/10: nodc_R1901792_190.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901792_190.nc
+    Local file: 1901792_2019_10_nodc_R1901792_190.nc
+  2019/10: nodc_R1901792_191.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901792_191.nc
+    Local file: 1901792_2019_10_nodc_R1901792_191.nc
+  2019/10: nodc_R1901792_192.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901792_192.nc
+    Local file: 1901792_2019_10_nodc_R1901792_192.nc
+  2019/10: nodc_R1901792_193.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1901792_193.nc
+    Local file: 1901792_2019_10_nodc_R1901792_193.nc
+  2019/11: nodc_R1901792_194.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901792_194.nc
+    Local file: 1901792_2019_11_nodc_R1901792_194.nc
+  2019/11: nodc_R1901792_195.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901792_195.nc
+    Local file: 1901792_2019_11_nodc_R1901792_195.nc
+  2019/11: nodc_R1901792_196.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901792_196.nc
+    Local file: 1901792_2019_11_nodc_R1901792_196.nc
+  2019/11: nodc_R1901792_197.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1901792_197.nc
+    Local file: 1901792_2019_11_nodc_R1901792_197.nc
+  2019/12: nodc_R1901792_198.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901792_198.nc
+    Local file: 1901792_2019_12_nodc_R1901792_198.nc
+  2019/12: nodc_R1901792_199.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901792_199.nc
+    Local file: 1901792_2019_12_nodc_R1901792_199.nc
+  2019/12: nodc_R1901792_200.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901792_200.nc
+    Local file: 1901792_2019_12_nodc_R1901792_200.nc
+  2019/12: nodc_R1901792_201.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901792_201.nc
+    Local file: 1901792_2019_12_nodc_R1901792_201.nc
+  2019/12: nodc_R1901792_202.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1901792_202.nc
+    Local file: 1901792_2019_12_nodc_R1901792_202.nc
+  2020/01: nodc_R1901792_203.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901792_203.nc
+    Local file: 1901792_2020_01_nodc_R1901792_203.nc
+  2020/01: nodc_R1901792_204.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901792_204.nc
+    Local file: 1901792_2020_01_nodc_R1901792_204.nc
+  2020/01: nodc_R1901792_205.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901792_205.nc
+    Local file: 1901792_2020_01_nodc_R1901792_205.nc
+  2020/01: nodc_R1901792_206.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1901792_206.nc
+    Local file: 1901792_2020_01_nodc_R1901792_206.nc
+  2020/02: nodc_R1901792_207.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901792_207.nc
+    Local file: 1901792_2020_02_nodc_R1901792_207.nc
+  2020/02: nodc_R1901792_208.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901792_208.nc
+    Local file: 1901792_2020_02_nodc_R1901792_208.nc
+  2020/02: nodc_R1901792_209.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1901792_209.nc
+    Local file: 1901792_2020_02_nodc_R1901792_209.nc
+  2020/03: nodc_R1901792_210.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901792_210.nc
+    Local file: 1901792_2020_03_nodc_R1901792_210.nc
+  2020/03: nodc_R1901792_211.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901792_211.nc
+    Local file: 1901792_2020_03_nodc_R1901792_211.nc
+  2020/03: nodc_R1901792_212.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901792_212.nc
+    Local file: 1901792_2020_03_nodc_R1901792_212.nc
+  2020/03: nodc_R1901792_213.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1901792_213.nc
+    Local file: 1901792_2020_03_nodc_R1901792_213.nc
+  2020/04: nodc_R1901792_214.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901792_214.nc
+    Local file: 1901792_2020_04_nodc_R1901792_214.nc
+  2020/04: nodc_R1901792_215.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901792_215.nc
+    Local file: 1901792_2020_04_nodc_R1901792_215.nc
+  2020/04: nodc_R1901792_216.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901792_216.nc
+    Local file: 1901792_2020_04_nodc_R1901792_216.nc
+  2020/04: nodc_R1901792_217.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1901792_217.nc
+    Local file: 1901792_2020_04_nodc_R1901792_217.nc
+  2020/05: nodc_R1901792_218.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901792_218.nc
+    Local file: 1901792_2020_05_nodc_R1901792_218.nc
+  2020/05: nodc_R1901792_219.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901792_219.nc
+    Local file: 1901792_2020_05_nodc_R1901792_219.nc
+  2020/05: nodc_R1901792_220.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901792_220.nc
+    Local file: 1901792_2020_05_nodc_R1901792_220.nc
+  2020/05: nodc_R1901792_221.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1901792_221.nc
+    Local file: 1901792_2020_05_nodc_R1901792_221.nc
+  2020/06: nodc_R1901792_222.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901792_222.nc
+    Local file: 1901792_2020_06_nodc_R1901792_222.nc
+  2020/06: nodc_R1901792_223.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901792_223.nc
+    Local file: 1901792_2020_06_nodc_R1901792_223.nc
+  2020/06: nodc_R1901792_224.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901792_224.nc
+    Local file: 1901792_2020_06_nodc_R1901792_224.nc
+  2020/06: nodc_R1901792_225.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1901792_225.nc
+    Local file: 1901792_2020_06_nodc_R1901792_225.nc
+  2020/07: nodc_R1901792_226.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901792_226.nc
+    Local file: 1901792_2020_07_nodc_R1901792_226.nc
+  2020/07: nodc_R1901792_227.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901792_227.nc
+    Local file: 1901792_2020_07_nodc_R1901792_227.nc
+  2020/07: nodc_R1901792_228.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901792_228.nc
+    Local file: 1901792_2020_07_nodc_R1901792_228.nc
+  2020/07: nodc_R1901792_229.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1901792_229.nc
+    Local file: 1901792_2020_07_nodc_R1901792_229.nc
+  2020/08: nodc_R1901792_230.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901792_230.nc
+    Local file: 1901792_2020_08_nodc_R1901792_230.nc
+  2020/08: nodc_R1901792_231.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901792_231.nc
+    Local file: 1901792_2020_08_nodc_R1901792_231.nc
+  2020/08: nodc_R1901792_232.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901792_232.nc
+    Local file: 1901792_2020_08_nodc_R1901792_232.nc
+  2020/08: nodc_R1901792_233.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901792_233.nc
+    Local file: 1901792_2020_08_nodc_R1901792_233.nc
+  2020/08: nodc_R1901792_234.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1901792_234.nc
+    Local file: 1901792_2020_08_nodc_R1901792_234.nc
+  2020/09: nodc_R1901792_235.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1901792_235.nc
+    Local file: 1901792_2020_09_nodc_R1901792_235.nc
+  2020/09: nodc_R1901792_236.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1901792_236.nc
+    Local file: 1901792_2020_09_nodc_R1901792_236.nc
+
+Float 1902029:
+  2019/07: nodc_R1902029_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1902029_100.nc
+    Local file: 1902029_2019_07_nodc_R1902029_100.nc
+  2019/07: nodc_R1902029_101.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1902029_101.nc
+    Local file: 1902029_2019_07_nodc_R1902029_101.nc
+  2019/08: nodc_R1902029_102.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902029_102.nc
+    Local file: 1902029_2019_08_nodc_R1902029_102.nc
+  2019/08: nodc_R1902029_103.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902029_103.nc
+    Local file: 1902029_2019_08_nodc_R1902029_103.nc
+  2019/08: nodc_R1902029_104.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902029_104.nc
+    Local file: 1902029_2019_08_nodc_R1902029_104.nc
+  2019/09: nodc_R1902029_105.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902029_105.nc
+    Local file: 1902029_2019_09_nodc_R1902029_105.nc
+  2019/09: nodc_R1902029_106.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902029_106.nc
+    Local file: 1902029_2019_09_nodc_R1902029_106.nc
+  2019/09: nodc_R1902029_107.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902029_107.nc
+    Local file: 1902029_2019_09_nodc_R1902029_107.nc
+  2019/10: nodc_R1902029_108.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902029_108.nc
+    Local file: 1902029_2019_10_nodc_R1902029_108.nc
+  2019/10: nodc_R1902029_109.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902029_109.nc
+    Local file: 1902029_2019_10_nodc_R1902029_109.nc
+  2019/10: nodc_R1902029_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902029_110.nc
+    Local file: 1902029_2019_10_nodc_R1902029_110.nc
+  2019/11: nodc_R1902029_111.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902029_111.nc
+    Local file: 1902029_2019_11_nodc_R1902029_111.nc
+  2019/11: nodc_R1902029_112.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902029_112.nc
+    Local file: 1902029_2019_11_nodc_R1902029_112.nc
+  2019/11: nodc_R1902029_113.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902029_113.nc
+    Local file: 1902029_2019_11_nodc_R1902029_113.nc
+  2019/12: nodc_R1902029_114.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902029_114.nc
+    Local file: 1902029_2019_12_nodc_R1902029_114.nc
+  2019/12: nodc_R1902029_115.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902029_115.nc
+    Local file: 1902029_2019_12_nodc_R1902029_115.nc
+  2019/12: nodc_R1902029_116.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902029_116.nc
+    Local file: 1902029_2019_12_nodc_R1902029_116.nc
+  2020/01: nodc_R1902029_117.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902029_117.nc
+    Local file: 1902029_2020_01_nodc_R1902029_117.nc
+  2020/01: nodc_R1902029_118.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902029_118.nc
+    Local file: 1902029_2020_01_nodc_R1902029_118.nc
+  2020/01: nodc_R1902029_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902029_119.nc
+    Local file: 1902029_2020_01_nodc_R1902029_119.nc
+  2020/02: nodc_R1902029_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902029_120.nc
+    Local file: 1902029_2020_02_nodc_R1902029_120.nc
+  2020/02: nodc_R1902029_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902029_121.nc
+    Local file: 1902029_2020_02_nodc_R1902029_121.nc
+  2020/02: nodc_R1902029_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902029_122.nc
+    Local file: 1902029_2020_02_nodc_R1902029_122.nc
+  2020/03: nodc_R1902029_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902029_123.nc
+    Local file: 1902029_2020_03_nodc_R1902029_123.nc
+  2020/03: nodc_R1902029_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902029_124.nc
+    Local file: 1902029_2020_03_nodc_R1902029_124.nc
+  2020/03: nodc_R1902029_125.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902029_125.nc
+    Local file: 1902029_2020_03_nodc_R1902029_125.nc
+  2020/04: nodc_R1902029_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902029_126.nc
+    Local file: 1902029_2020_04_nodc_R1902029_126.nc
+  2020/04: nodc_R1902029_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902029_127.nc
+    Local file: 1902029_2020_04_nodc_R1902029_127.nc
+  2020/04: nodc_R1902029_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902029_128.nc
+    Local file: 1902029_2020_04_nodc_R1902029_128.nc
+  2020/05: nodc_R1902029_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902029_129.nc
+    Local file: 1902029_2020_05_nodc_R1902029_129.nc
+  2020/05: nodc_R1902029_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902029_130.nc
+    Local file: 1902029_2020_05_nodc_R1902029_130.nc
+  2020/05: nodc_R1902029_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902029_131.nc
+    Local file: 1902029_2020_05_nodc_R1902029_131.nc
+  2020/06: nodc_R1902029_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902029_132.nc
+    Local file: 1902029_2020_06_nodc_R1902029_132.nc
+  2020/06: nodc_R1902029_133.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902029_133.nc
+    Local file: 1902029_2020_06_nodc_R1902029_133.nc
+  2020/06: nodc_R1902029_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902029_134.nc
+    Local file: 1902029_2020_06_nodc_R1902029_134.nc
+  2020/07: nodc_R1902029_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902029_135.nc
+    Local file: 1902029_2020_07_nodc_R1902029_135.nc
+  2020/07: nodc_R1902029_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902029_136.nc
+    Local file: 1902029_2020_07_nodc_R1902029_136.nc
+  2020/07: nodc_R1902029_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902029_137.nc
+    Local file: 1902029_2020_07_nodc_R1902029_137.nc
+  2020/08: nodc_R1902029_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902029_138.nc
+    Local file: 1902029_2020_08_nodc_R1902029_138.nc
+  2020/08: nodc_R1902029_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902029_139.nc
+    Local file: 1902029_2020_08_nodc_R1902029_139.nc
+  2020/08: nodc_R1902029_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902029_140.nc
+    Local file: 1902029_2020_08_nodc_R1902029_140.nc
+  2020/09: nodc_R1902029_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902029_141.nc
+    Local file: 1902029_2020_09_nodc_R1902029_141.nc
+  2020/09: nodc_R1902029_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902029_142.nc
+    Local file: 1902029_2020_09_nodc_R1902029_142.nc
+  2020/09: nodc_R1902029_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902029_143.nc
+    Local file: 1902029_2020_09_nodc_R1902029_143.nc
+
+Float 1902196:
+  2018/06: nodc_R1902196_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R1902196_001.nc
+    Local file: 1902196_2018_06_nodc_R1902196_001.nc
+  2018/07: nodc_R1902196_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R1902196_002.nc
+    Local file: 1902196_2018_07_nodc_R1902196_002.nc
+  2018/07: nodc_R1902196_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R1902196_003.nc
+    Local file: 1902196_2018_07_nodc_R1902196_003.nc
+  2018/07: nodc_R1902196_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R1902196_004.nc
+    Local file: 1902196_2018_07_nodc_R1902196_004.nc
+  2018/08: nodc_R1902196_005.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R1902196_005.nc
+    Local file: 1902196_2018_08_nodc_R1902196_005.nc
+  2018/08: nodc_R1902196_006.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R1902196_006.nc
+    Local file: 1902196_2018_08_nodc_R1902196_006.nc
+  2018/08: nodc_R1902196_007.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R1902196_007.nc
+    Local file: 1902196_2018_08_nodc_R1902196_007.nc
+  2018/09: nodc_R1902196_008.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R1902196_008.nc
+    Local file: 1902196_2018_09_nodc_R1902196_008.nc
+  2018/09: nodc_R1902196_009.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R1902196_009.nc
+    Local file: 1902196_2018_09_nodc_R1902196_009.nc
+  2018/09: nodc_R1902196_010.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R1902196_010.nc
+    Local file: 1902196_2018_09_nodc_R1902196_010.nc
+  2018/10: nodc_R1902196_011.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R1902196_011.nc
+    Local file: 1902196_2018_10_nodc_R1902196_011.nc
+  2018/10: nodc_R1902196_012.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R1902196_012.nc
+    Local file: 1902196_2018_10_nodc_R1902196_012.nc
+  2018/10: nodc_R1902196_013.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R1902196_013.nc
+    Local file: 1902196_2018_10_nodc_R1902196_013.nc
+  2018/11: nodc_R1902196_014.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R1902196_014.nc
+    Local file: 1902196_2018_11_nodc_R1902196_014.nc
+  2018/11: nodc_R1902196_015.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R1902196_015.nc
+    Local file: 1902196_2018_11_nodc_R1902196_015.nc
+  2018/11: nodc_R1902196_016.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R1902196_016.nc
+    Local file: 1902196_2018_11_nodc_R1902196_016.nc
+  2018/12: nodc_R1902196_017.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R1902196_017.nc
+    Local file: 1902196_2018_12_nodc_R1902196_017.nc
+  2018/12: nodc_R1902196_018.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R1902196_018.nc
+    Local file: 1902196_2018_12_nodc_R1902196_018.nc
+  2018/12: nodc_R1902196_019.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R1902196_019.nc
+    Local file: 1902196_2018_12_nodc_R1902196_019.nc
+  2019/01: nodc_R1902196_020.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R1902196_020.nc
+    Local file: 1902196_2019_01_nodc_R1902196_020.nc
+  2019/01: nodc_R1902196_021.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R1902196_021.nc
+    Local file: 1902196_2019_01_nodc_R1902196_021.nc
+  2019/01: nodc_R1902196_022.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R1902196_022.nc
+    Local file: 1902196_2019_01_nodc_R1902196_022.nc
+  2019/02: nodc_R1902196_023.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R1902196_023.nc
+    Local file: 1902196_2019_02_nodc_R1902196_023.nc
+  2019/02: nodc_R1902196_024.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R1902196_024.nc
+    Local file: 1902196_2019_02_nodc_R1902196_024.nc
+  2019/02: nodc_R1902196_025.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R1902196_025.nc
+    Local file: 1902196_2019_02_nodc_R1902196_025.nc
+  2019/03: nodc_R1902196_026.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R1902196_026.nc
+    Local file: 1902196_2019_03_nodc_R1902196_026.nc
+  2019/03: nodc_R1902196_027.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R1902196_027.nc
+    Local file: 1902196_2019_03_nodc_R1902196_027.nc
+  2019/03: nodc_R1902196_028.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R1902196_028.nc
+    Local file: 1902196_2019_03_nodc_R1902196_028.nc
+  2019/04: nodc_R1902196_029.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R1902196_029.nc
+    Local file: 1902196_2019_04_nodc_R1902196_029.nc
+  2019/04: nodc_R1902196_030.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R1902196_030.nc
+    Local file: 1902196_2019_04_nodc_R1902196_030.nc
+  2019/04: nodc_R1902196_031.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R1902196_031.nc
+    Local file: 1902196_2019_04_nodc_R1902196_031.nc
+  2019/05: nodc_R1902196_032.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R1902196_032.nc
+    Local file: 1902196_2019_05_nodc_R1902196_032.nc
+  2019/05: nodc_R1902196_033.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R1902196_033.nc
+    Local file: 1902196_2019_05_nodc_R1902196_033.nc
+  2019/05: nodc_R1902196_034.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R1902196_034.nc
+    Local file: 1902196_2019_05_nodc_R1902196_034.nc
+  2019/06: nodc_R1902196_035.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R1902196_035.nc
+    Local file: 1902196_2019_06_nodc_R1902196_035.nc
+  2019/06: nodc_R1902196_036.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R1902196_036.nc
+    Local file: 1902196_2019_06_nodc_R1902196_036.nc
+  2019/06: nodc_R1902196_037.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R1902196_037.nc
+    Local file: 1902196_2019_06_nodc_R1902196_037.nc
+  2019/07: nodc_R1902196_038.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1902196_038.nc
+    Local file: 1902196_2019_07_nodc_R1902196_038.nc
+  2019/07: nodc_R1902196_039.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1902196_039.nc
+    Local file: 1902196_2019_07_nodc_R1902196_039.nc
+  2019/07: nodc_R1902196_040.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R1902196_040.nc
+    Local file: 1902196_2019_07_nodc_R1902196_040.nc
+  2019/08: nodc_R1902196_041.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902196_041.nc
+    Local file: 1902196_2019_08_nodc_R1902196_041.nc
+  2019/08: nodc_R1902196_042.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902196_042.nc
+    Local file: 1902196_2019_08_nodc_R1902196_042.nc
+  2019/08: nodc_R1902196_043.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902196_043.nc
+    Local file: 1902196_2019_08_nodc_R1902196_043.nc
+  2019/08: nodc_R1902196_044.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R1902196_044.nc
+    Local file: 1902196_2019_08_nodc_R1902196_044.nc
+  2019/09: nodc_R1902196_045.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902196_045.nc
+    Local file: 1902196_2019_09_nodc_R1902196_045.nc
+  2019/09: nodc_R1902196_046.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902196_046.nc
+    Local file: 1902196_2019_09_nodc_R1902196_046.nc
+  2019/09: nodc_R1902196_047.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R1902196_047.nc
+    Local file: 1902196_2019_09_nodc_R1902196_047.nc
+  2019/10: nodc_R1902196_048.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902196_048.nc
+    Local file: 1902196_2019_10_nodc_R1902196_048.nc
+  2019/10: nodc_R1902196_049.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902196_049.nc
+    Local file: 1902196_2019_10_nodc_R1902196_049.nc
+  2019/10: nodc_R1902196_050.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R1902196_050.nc
+    Local file: 1902196_2019_10_nodc_R1902196_050.nc
+  2019/11: nodc_R1902196_051.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902196_051.nc
+    Local file: 1902196_2019_11_nodc_R1902196_051.nc
+  2019/11: nodc_R1902196_052.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902196_052.nc
+    Local file: 1902196_2019_11_nodc_R1902196_052.nc
+  2019/11: nodc_R1902196_053.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R1902196_053.nc
+    Local file: 1902196_2019_11_nodc_R1902196_053.nc
+  2019/12: nodc_R1902196_054.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902196_054.nc
+    Local file: 1902196_2019_12_nodc_R1902196_054.nc
+  2019/12: nodc_R1902196_055.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902196_055.nc
+    Local file: 1902196_2019_12_nodc_R1902196_055.nc
+  2019/12: nodc_R1902196_056.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R1902196_056.nc
+    Local file: 1902196_2019_12_nodc_R1902196_056.nc
+  2020/01: nodc_R1902196_057.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902196_057.nc
+    Local file: 1902196_2020_01_nodc_R1902196_057.nc
+  2020/01: nodc_R1902196_058.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902196_058.nc
+    Local file: 1902196_2020_01_nodc_R1902196_058.nc
+  2020/01: nodc_R1902196_059.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R1902196_059.nc
+    Local file: 1902196_2020_01_nodc_R1902196_059.nc
+  2020/02: nodc_R1902196_060.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902196_060.nc
+    Local file: 1902196_2020_02_nodc_R1902196_060.nc
+  2020/02: nodc_R1902196_061.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902196_061.nc
+    Local file: 1902196_2020_02_nodc_R1902196_061.nc
+  2020/02: nodc_R1902196_062.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R1902196_062.nc
+    Local file: 1902196_2020_02_nodc_R1902196_062.nc
+  2020/03: nodc_R1902196_063.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902196_063.nc
+    Local file: 1902196_2020_03_nodc_R1902196_063.nc
+  2020/03: nodc_R1902196_064.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902196_064.nc
+    Local file: 1902196_2020_03_nodc_R1902196_064.nc
+  2020/03: nodc_R1902196_065.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R1902196_065.nc
+    Local file: 1902196_2020_03_nodc_R1902196_065.nc
+  2020/04: nodc_R1902196_066.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902196_066.nc
+    Local file: 1902196_2020_04_nodc_R1902196_066.nc
+  2020/04: nodc_R1902196_067.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902196_067.nc
+    Local file: 1902196_2020_04_nodc_R1902196_067.nc
+  2020/04: nodc_R1902196_068.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R1902196_068.nc
+    Local file: 1902196_2020_04_nodc_R1902196_068.nc
+  2020/05: nodc_R1902196_069.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902196_069.nc
+    Local file: 1902196_2020_05_nodc_R1902196_069.nc
+  2020/05: nodc_R1902196_070.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902196_070.nc
+    Local file: 1902196_2020_05_nodc_R1902196_070.nc
+  2020/05: nodc_R1902196_071.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R1902196_071.nc
+    Local file: 1902196_2020_05_nodc_R1902196_071.nc
+  2020/06: nodc_R1902196_072.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902196_072.nc
+    Local file: 1902196_2020_06_nodc_R1902196_072.nc
+  2020/06: nodc_R1902196_073.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902196_073.nc
+    Local file: 1902196_2020_06_nodc_R1902196_073.nc
+  2020/06: nodc_R1902196_074.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R1902196_074.nc
+    Local file: 1902196_2020_06_nodc_R1902196_074.nc
+  2020/07: nodc_R1902196_075.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902196_075.nc
+    Local file: 1902196_2020_07_nodc_R1902196_075.nc
+  2020/07: nodc_R1902196_076.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902196_076.nc
+    Local file: 1902196_2020_07_nodc_R1902196_076.nc
+  2020/07: nodc_R1902196_077.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R1902196_077.nc
+    Local file: 1902196_2020_07_nodc_R1902196_077.nc
+  2020/08: nodc_R1902196_078.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902196_078.nc
+    Local file: 1902196_2020_08_nodc_R1902196_078.nc
+  2020/08: nodc_R1902196_079.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902196_079.nc
+    Local file: 1902196_2020_08_nodc_R1902196_079.nc
+  2020/08: nodc_R1902196_080.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902196_080.nc
+    Local file: 1902196_2020_08_nodc_R1902196_080.nc
+  2020/09: nodc_R1902196_081.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902196_081.nc
+    Local file: 1902196_2020_09_nodc_R1902196_081.nc
+  2020/09: nodc_R1902196_082.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902196_082.nc
+    Local file: 1902196_2020_09_nodc_R1902196_082.nc
+
+Float 1902251:
+  2020/08: nodc_R1902251_000.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902251_000.nc
+    Local file: 1902251_2020_08_nodc_R1902251_000.nc
+  2020/08: nodc_R1902251_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902251_001.nc
+    Local file: 1902251_2020_08_nodc_R1902251_001.nc
+  2020/08: nodc_R1902251_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902251_002.nc
+    Local file: 1902251_2020_08_nodc_R1902251_002.nc
+  2020/08: nodc_R1902251_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902251_003.nc
+    Local file: 1902251_2020_08_nodc_R1902251_003.nc
+  2020/08: nodc_R1902251_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R1902251_004.nc
+    Local file: 1902251_2020_08_nodc_R1902251_004.nc
+  2020/09: nodc_R1902251_005.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902251_005.nc
+    Local file: 1902251_2020_09_nodc_R1902251_005.nc
+  2020/09: nodc_R1902251_006.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R1902251_006.nc
+    Local file: 1902251_2020_09_nodc_R1902251_006.nc
+
+Float 2902156:
+  2017/01: nodc_R2902156_079.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902156_079.nc
+    Local file: 2902156_2017_01_nodc_R2902156_079.nc
+  2017/01: nodc_R2902156_080.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902156_080.nc
+    Local file: 2902156_2017_01_nodc_R2902156_080.nc
+  2017/01: nodc_R2902156_081.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902156_081.nc
+    Local file: 2902156_2017_01_nodc_R2902156_081.nc
+  2017/02: nodc_R2902156_082.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902156_082.nc
+    Local file: 2902156_2017_02_nodc_R2902156_082.nc
+  2017/02: nodc_R2902156_083.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902156_083.nc
+    Local file: 2902156_2017_02_nodc_R2902156_083.nc
+  2017/02: nodc_R2902156_084.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902156_084.nc
+    Local file: 2902156_2017_02_nodc_R2902156_084.nc
+  2017/03: nodc_R2902156_085.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902156_085.nc
+    Local file: 2902156_2017_03_nodc_R2902156_085.nc
+  2017/03: nodc_R2902156_086.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902156_086.nc
+    Local file: 2902156_2017_03_nodc_R2902156_086.nc
+  2017/03: nodc_R2902156_087.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902156_087.nc
+    Local file: 2902156_2017_03_nodc_R2902156_087.nc
+  2017/04: nodc_R2902156_088.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902156_088.nc
+    Local file: 2902156_2017_04_nodc_R2902156_088.nc
+  2017/04: nodc_R2902156_089.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902156_089.nc
+    Local file: 2902156_2017_04_nodc_R2902156_089.nc
+  2017/04: nodc_R2902156_090.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902156_090.nc
+    Local file: 2902156_2017_04_nodc_R2902156_090.nc
+  2017/05: nodc_R2902156_091.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902156_091.nc
+    Local file: 2902156_2017_05_nodc_R2902156_091.nc
+  2017/05: nodc_R2902156_092.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902156_092.nc
+    Local file: 2902156_2017_05_nodc_R2902156_092.nc
+  2017/06: nodc_R2902156_094.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902156_094.nc
+    Local file: 2902156_2017_06_nodc_R2902156_094.nc
+  2017/06: nodc_R2902156_095.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902156_095.nc
+    Local file: 2902156_2017_06_nodc_R2902156_095.nc
+  2017/06: nodc_R2902156_096.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902156_096.nc
+    Local file: 2902156_2017_06_nodc_R2902156_096.nc
+  2017/07: nodc_R2902156_097.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902156_097.nc
+    Local file: 2902156_2017_07_nodc_R2902156_097.nc
+  2017/07: nodc_R2902156_098.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902156_098.nc
+    Local file: 2902156_2017_07_nodc_R2902156_098.nc
+  2017/07: nodc_R2902156_099.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902156_099.nc
+    Local file: 2902156_2017_07_nodc_R2902156_099.nc
+  2017/07: nodc_R2902156_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902156_100.nc
+    Local file: 2902156_2017_07_nodc_R2902156_100.nc
+  2017/08: nodc_R2902156_101.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902156_101.nc
+    Local file: 2902156_2017_08_nodc_R2902156_101.nc
+  2017/08: nodc_R2902156_102.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902156_102.nc
+    Local file: 2902156_2017_08_nodc_R2902156_102.nc
+  2017/08: nodc_R2902156_103.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902156_103.nc
+    Local file: 2902156_2017_08_nodc_R2902156_103.nc
+  2017/09: nodc_R2902156_104.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902156_104.nc
+    Local file: 2902156_2017_09_nodc_R2902156_104.nc
+  2017/09: nodc_R2902156_105.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902156_105.nc
+    Local file: 2902156_2017_09_nodc_R2902156_105.nc
+  2017/09: nodc_R2902156_106.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902156_106.nc
+    Local file: 2902156_2017_09_nodc_R2902156_106.nc
+  2017/10: nodc_R2902156_107.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902156_107.nc
+    Local file: 2902156_2017_10_nodc_R2902156_107.nc
+  2017/10: nodc_R2902156_108.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902156_108.nc
+    Local file: 2902156_2017_10_nodc_R2902156_108.nc
+  2017/10: nodc_R2902156_109.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902156_109.nc
+    Local file: 2902156_2017_10_nodc_R2902156_109.nc
+  2017/11: nodc_R2902156_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902156_110.nc
+    Local file: 2902156_2017_11_nodc_R2902156_110.nc
+  2017/11: nodc_R2902156_111.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902156_111.nc
+    Local file: 2902156_2017_11_nodc_R2902156_111.nc
+  2017/11: nodc_R2902156_112.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902156_112.nc
+    Local file: 2902156_2017_11_nodc_R2902156_112.nc
+  2017/12: nodc_R2902156_113.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902156_113.nc
+    Local file: 2902156_2017_12_nodc_R2902156_113.nc
+  2017/12: nodc_R2902156_114.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902156_114.nc
+    Local file: 2902156_2017_12_nodc_R2902156_114.nc
+  2017/12: nodc_R2902156_115.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902156_115.nc
+    Local file: 2902156_2017_12_nodc_R2902156_115.nc
+  2018/01: nodc_R2902156_116.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902156_116.nc
+    Local file: 2902156_2018_01_nodc_R2902156_116.nc
+  2018/01: nodc_R2902156_117.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902156_117.nc
+    Local file: 2902156_2018_01_nodc_R2902156_117.nc
+  2018/01: nodc_R2902156_118.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902156_118.nc
+    Local file: 2902156_2018_01_nodc_R2902156_118.nc
+  2018/02: nodc_R2902156_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902156_119.nc
+    Local file: 2902156_2018_02_nodc_R2902156_119.nc
+  2018/02: nodc_R2902156_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902156_120.nc
+    Local file: 2902156_2018_02_nodc_R2902156_120.nc
+  2018/02: nodc_R2902156_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902156_121.nc
+    Local file: 2902156_2018_02_nodc_R2902156_121.nc
+  2018/03: nodc_R2902156_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902156_122.nc
+    Local file: 2902156_2018_03_nodc_R2902156_122.nc
+  2018/03: nodc_R2902156_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902156_123.nc
+    Local file: 2902156_2018_03_nodc_R2902156_123.nc
+  2018/03: nodc_R2902156_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902156_124.nc
+    Local file: 2902156_2018_03_nodc_R2902156_124.nc
+  2018/04: nodc_R2902156_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902156_126.nc
+    Local file: 2902156_2018_04_nodc_R2902156_126.nc
+  2018/04: nodc_R2902156_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902156_127.nc
+    Local file: 2902156_2018_04_nodc_R2902156_127.nc
+  2018/05: nodc_R2902156_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902156_128.nc
+    Local file: 2902156_2018_05_nodc_R2902156_128.nc
+  2018/05: nodc_R2902156_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902156_129.nc
+    Local file: 2902156_2018_05_nodc_R2902156_129.nc
+  2018/05: nodc_R2902156_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902156_130.nc
+    Local file: 2902156_2018_05_nodc_R2902156_130.nc
+  2018/06: nodc_R2902156_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902156_131.nc
+    Local file: 2902156_2018_06_nodc_R2902156_131.nc
+  2018/06: nodc_R2902156_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902156_132.nc
+    Local file: 2902156_2018_06_nodc_R2902156_132.nc
+  2018/06: nodc_R2902156_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902156_134.nc
+    Local file: 2902156_2018_06_nodc_R2902156_134.nc
+  2018/07: nodc_R2902156_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902156_135.nc
+    Local file: 2902156_2018_07_nodc_R2902156_135.nc
+  2018/07: nodc_R2902156_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902156_136.nc
+    Local file: 2902156_2018_07_nodc_R2902156_136.nc
+  2018/07: nodc_R2902156_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902156_137.nc
+    Local file: 2902156_2018_07_nodc_R2902156_137.nc
+  2018/08: nodc_R2902156_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902156_138.nc
+    Local file: 2902156_2018_08_nodc_R2902156_138.nc
+  2018/08: nodc_R2902156_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902156_139.nc
+    Local file: 2902156_2018_08_nodc_R2902156_139.nc
+  2018/08: nodc_R2902156_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902156_140.nc
+    Local file: 2902156_2018_08_nodc_R2902156_140.nc
+  2018/09: nodc_R2902156_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902156_141.nc
+    Local file: 2902156_2018_09_nodc_R2902156_141.nc
+  2018/09: nodc_R2902156_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902156_142.nc
+    Local file: 2902156_2018_09_nodc_R2902156_142.nc
+  2018/09: nodc_R2902156_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902156_143.nc
+    Local file: 2902156_2018_09_nodc_R2902156_143.nc
+  2018/10: nodc_R2902156_144.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R2902156_144.nc
+    Local file: 2902156_2018_10_nodc_R2902156_144.nc
+  2018/10: nodc_R2902156_145.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R2902156_145.nc
+    Local file: 2902156_2018_10_nodc_R2902156_145.nc
+  2018/10: nodc_R2902156_146.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R2902156_146.nc
+    Local file: 2902156_2018_10_nodc_R2902156_146.nc
+  2018/11: nodc_R2902156_147.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R2902156_147.nc
+    Local file: 2902156_2018_11_nodc_R2902156_147.nc
+  2018/11: nodc_R2902156_148.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R2902156_148.nc
+    Local file: 2902156_2018_11_nodc_R2902156_148.nc
+  2018/11: nodc_R2902156_149.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R2902156_149.nc
+    Local file: 2902156_2018_11_nodc_R2902156_149.nc
+  2018/12: nodc_R2902156_150.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R2902156_150.nc
+    Local file: 2902156_2018_12_nodc_R2902156_150.nc
+  2018/12: nodc_R2902156_151.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R2902156_151.nc
+    Local file: 2902156_2018_12_nodc_R2902156_151.nc
+  2018/12: nodc_R2902156_152.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R2902156_152.nc
+    Local file: 2902156_2018_12_nodc_R2902156_152.nc
+  2019/01: nodc_R2902156_153.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R2902156_153.nc
+    Local file: 2902156_2019_01_nodc_R2902156_153.nc
+  2019/01: nodc_R2902156_154.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R2902156_154.nc
+    Local file: 2902156_2019_01_nodc_R2902156_154.nc
+  2019/01: nodc_R2902156_155.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R2902156_155.nc
+    Local file: 2902156_2019_01_nodc_R2902156_155.nc
+  2019/02: nodc_R2902156_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R2902156_156.nc
+    Local file: 2902156_2019_02_nodc_R2902156_156.nc
+  2019/02: nodc_R2902156_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R2902156_157.nc
+    Local file: 2902156_2019_02_nodc_R2902156_157.nc
+  2019/03: nodc_R2902156_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R2902156_159.nc
+    Local file: 2902156_2019_03_nodc_R2902156_159.nc
+  2019/03: nodc_R2902156_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R2902156_160.nc
+    Local file: 2902156_2019_03_nodc_R2902156_160.nc
+  2019/03: nodc_R2902156_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R2902156_161.nc
+    Local file: 2902156_2019_03_nodc_R2902156_161.nc
+  2019/04: nodc_R2902156_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R2902156_162.nc
+    Local file: 2902156_2019_04_nodc_R2902156_162.nc
+  2019/04: nodc_R2902156_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R2902156_163.nc
+    Local file: 2902156_2019_04_nodc_R2902156_163.nc
+  2019/04: nodc_R2902156_164.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R2902156_164.nc
+    Local file: 2902156_2019_04_nodc_R2902156_164.nc
+  2019/05: nodc_R2902156_165.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R2902156_165.nc
+    Local file: 2902156_2019_05_nodc_R2902156_165.nc
+  2019/05: nodc_R2902156_166.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R2902156_166.nc
+    Local file: 2902156_2019_05_nodc_R2902156_166.nc
+  2019/05: nodc_R2902156_167.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R2902156_167.nc
+    Local file: 2902156_2019_05_nodc_R2902156_167.nc
+  2019/05: nodc_R2902156_168.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R2902156_168.nc
+    Local file: 2902156_2019_05_nodc_R2902156_168.nc
+  2019/06: nodc_R2902156_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R2902156_169.nc
+    Local file: 2902156_2019_06_nodc_R2902156_169.nc
+  2019/06: nodc_R2902156_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R2902156_170.nc
+    Local file: 2902156_2019_06_nodc_R2902156_170.nc
+  2019/06: nodc_R2902156_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R2902156_171.nc
+    Local file: 2902156_2019_06_nodc_R2902156_171.nc
+  2019/07: nodc_R2902156_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R2902156_172.nc
+    Local file: 2902156_2019_07_nodc_R2902156_172.nc
+  2019/07: nodc_R2902156_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R2902156_173.nc
+    Local file: 2902156_2019_07_nodc_R2902156_173.nc
+  2019/07: nodc_R2902156_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R2902156_174.nc
+    Local file: 2902156_2019_07_nodc_R2902156_174.nc
+  2019/08: nodc_R2902156_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R2902156_175.nc
+    Local file: 2902156_2019_08_nodc_R2902156_175.nc
+  2019/08: nodc_R2902156_177.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R2902156_177.nc
+    Local file: 2902156_2019_08_nodc_R2902156_177.nc
+  2019/09: nodc_R2902156_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R2902156_178.nc
+    Local file: 2902156_2019_09_nodc_R2902156_178.nc
+  2019/09: nodc_R2902156_179.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R2902156_179.nc
+    Local file: 2902156_2019_09_nodc_R2902156_179.nc
+  2019/09: nodc_R2902156_180.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R2902156_180.nc
+    Local file: 2902156_2019_09_nodc_R2902156_180.nc
+  2019/10: nodc_R2902156_181.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R2902156_181.nc
+    Local file: 2902156_2019_10_nodc_R2902156_181.nc
+  2019/10: nodc_R2902156_182.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R2902156_182.nc
+    Local file: 2902156_2019_10_nodc_R2902156_182.nc
+  2019/10: nodc_R2902156_183.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R2902156_183.nc
+    Local file: 2902156_2019_10_nodc_R2902156_183.nc
+  2019/11: nodc_R2902156_184.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R2902156_184.nc
+    Local file: 2902156_2019_11_nodc_R2902156_184.nc
+  2019/11: nodc_R2902156_185.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R2902156_185.nc
+    Local file: 2902156_2019_11_nodc_R2902156_185.nc
+  2019/11: nodc_R2902156_186.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R2902156_186.nc
+    Local file: 2902156_2019_11_nodc_R2902156_186.nc
+  2019/12: nodc_R2902156_187.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R2902156_187.nc
+    Local file: 2902156_2019_12_nodc_R2902156_187.nc
+  2019/12: nodc_R2902156_188.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R2902156_188.nc
+    Local file: 2902156_2019_12_nodc_R2902156_188.nc
+  2019/12: nodc_R2902156_189.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R2902156_189.nc
+    Local file: 2902156_2019_12_nodc_R2902156_189.nc
+  2020/01: nodc_R2902156_190.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R2902156_190.nc
+    Local file: 2902156_2020_01_nodc_R2902156_190.nc
+  2020/01: nodc_R2902156_191.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R2902156_191.nc
+    Local file: 2902156_2020_01_nodc_R2902156_191.nc
+  2020/01: nodc_R2902156_192.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R2902156_192.nc
+    Local file: 2902156_2020_01_nodc_R2902156_192.nc
+  2020/01: nodc_R2902156_193.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R2902156_193.nc
+    Local file: 2902156_2020_01_nodc_R2902156_193.nc
+  2020/02: nodc_R2902156_194.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R2902156_194.nc
+    Local file: 2902156_2020_02_nodc_R2902156_194.nc
+  2020/02: nodc_R2902156_195.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R2902156_195.nc
+    Local file: 2902156_2020_02_nodc_R2902156_195.nc
+  2020/02: nodc_R2902156_196.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R2902156_196.nc
+    Local file: 2902156_2020_02_nodc_R2902156_196.nc
+  2020/03: nodc_R2902156_197.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902156_197.nc
+    Local file: 2902156_2020_03_nodc_R2902156_197.nc
+  2020/03: nodc_R2902156_198.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902156_198.nc
+    Local file: 2902156_2020_03_nodc_R2902156_198.nc
+  2020/03: nodc_R2902156_199.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902156_199.nc
+    Local file: 2902156_2020_03_nodc_R2902156_199.nc
+  2020/04: nodc_R2902156_200.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902156_200.nc
+    Local file: 2902156_2020_04_nodc_R2902156_200.nc
+  2020/04: nodc_R2902156_201.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902156_201.nc
+    Local file: 2902156_2020_04_nodc_R2902156_201.nc
+  2020/04: nodc_R2902156_202.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902156_202.nc
+    Local file: 2902156_2020_04_nodc_R2902156_202.nc
+  2020/05: nodc_R2902156_203.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902156_203.nc
+    Local file: 2902156_2020_05_nodc_R2902156_203.nc
+  2020/05: nodc_R2902156_204.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902156_204.nc
+    Local file: 2902156_2020_05_nodc_R2902156_204.nc
+  2020/05: nodc_R2902156_205.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902156_205.nc
+    Local file: 2902156_2020_05_nodc_R2902156_205.nc
+  2020/06: nodc_R2902156_206.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902156_206.nc
+    Local file: 2902156_2020_06_nodc_R2902156_206.nc
+  2020/06: nodc_R2902156_207.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902156_207.nc
+    Local file: 2902156_2020_06_nodc_R2902156_207.nc
+  2020/06: nodc_R2902156_208.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902156_208.nc
+    Local file: 2902156_2020_06_nodc_R2902156_208.nc
+  2020/07: nodc_R2902156_209.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902156_209.nc
+    Local file: 2902156_2020_07_nodc_R2902156_209.nc
+  2020/07: nodc_R2902156_210.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902156_210.nc
+    Local file: 2902156_2020_07_nodc_R2902156_210.nc
+  2020/07: nodc_R2902156_211.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902156_211.nc
+    Local file: 2902156_2020_07_nodc_R2902156_211.nc
+  2020/08: nodc_R2902156_212.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R2902156_212.nc
+    Local file: 2902156_2020_08_nodc_R2902156_212.nc
+  2020/08: nodc_R2902156_213.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R2902156_213.nc
+    Local file: 2902156_2020_08_nodc_R2902156_213.nc
+
+Float 2902197:
+  2017/01: nodc_R2902197_071.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_071.nc
+    Local file: 2902197_2017_01_nodc_R2902197_071.nc
+  2017/01: nodc_R2902197_072.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_072.nc
+    Local file: 2902197_2017_01_nodc_R2902197_072.nc
+  2017/01: nodc_R2902197_073.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_073.nc
+    Local file: 2902197_2017_01_nodc_R2902197_073.nc
+  2017/01: nodc_R2902197_074.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_074.nc
+    Local file: 2902197_2017_01_nodc_R2902197_074.nc
+  2017/01: nodc_R2902197_075.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_075.nc
+    Local file: 2902197_2017_01_nodc_R2902197_075.nc
+  2017/01: nodc_R2902197_076.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_076.nc
+    Local file: 2902197_2017_01_nodc_R2902197_076.nc
+  2017/01: nodc_R2902197_077.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/01/nodc_R2902197_077.nc
+    Local file: 2902197_2017_01_nodc_R2902197_077.nc
+  2017/02: nodc_R2902197_078.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902197_078.nc
+    Local file: 2902197_2017_02_nodc_R2902197_078.nc
+  2017/02: nodc_R2902197_079.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902197_079.nc
+    Local file: 2902197_2017_02_nodc_R2902197_079.nc
+  2017/02: nodc_R2902197_080.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902197_080.nc
+    Local file: 2902197_2017_02_nodc_R2902197_080.nc
+  2017/02: nodc_R2902197_081.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902197_081.nc
+    Local file: 2902197_2017_02_nodc_R2902197_081.nc
+  2017/02: nodc_R2902197_082.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/02/nodc_R2902197_082.nc
+    Local file: 2902197_2017_02_nodc_R2902197_082.nc
+  2017/03: nodc_R2902197_083.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_083.nc
+    Local file: 2902197_2017_03_nodc_R2902197_083.nc
+  2017/03: nodc_R2902197_084.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_084.nc
+    Local file: 2902197_2017_03_nodc_R2902197_084.nc
+  2017/03: nodc_R2902197_085.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_085.nc
+    Local file: 2902197_2017_03_nodc_R2902197_085.nc
+  2017/03: nodc_R2902197_086.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_086.nc
+    Local file: 2902197_2017_03_nodc_R2902197_086.nc
+  2017/03: nodc_R2902197_087.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_087.nc
+    Local file: 2902197_2017_03_nodc_R2902197_087.nc
+  2017/03: nodc_R2902197_088.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_088.nc
+    Local file: 2902197_2017_03_nodc_R2902197_088.nc
+  2017/03: nodc_R2902197_089.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/03/nodc_R2902197_089.nc
+    Local file: 2902197_2017_03_nodc_R2902197_089.nc
+  2017/04: nodc_R2902197_090.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_090.nc
+    Local file: 2902197_2017_04_nodc_R2902197_090.nc
+  2017/04: nodc_R2902197_091.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_091.nc
+    Local file: 2902197_2017_04_nodc_R2902197_091.nc
+  2017/04: nodc_R2902197_092.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_092.nc
+    Local file: 2902197_2017_04_nodc_R2902197_092.nc
+  2017/04: nodc_R2902197_093.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_093.nc
+    Local file: 2902197_2017_04_nodc_R2902197_093.nc
+  2017/04: nodc_R2902197_094.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_094.nc
+    Local file: 2902197_2017_04_nodc_R2902197_094.nc
+  2017/04: nodc_R2902197_095.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/04/nodc_R2902197_095.nc
+    Local file: 2902197_2017_04_nodc_R2902197_095.nc
+  2017/05: nodc_R2902197_096.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_096.nc
+    Local file: 2902197_2017_05_nodc_R2902197_096.nc
+  2017/05: nodc_R2902197_097.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_097.nc
+    Local file: 2902197_2017_05_nodc_R2902197_097.nc
+  2017/05: nodc_R2902197_098.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_098.nc
+    Local file: 2902197_2017_05_nodc_R2902197_098.nc
+  2017/05: nodc_R2902197_099.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_099.nc
+    Local file: 2902197_2017_05_nodc_R2902197_099.nc
+  2017/05: nodc_R2902197_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_100.nc
+    Local file: 2902197_2017_05_nodc_R2902197_100.nc
+  2017/05: nodc_R2902197_101.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_101.nc
+    Local file: 2902197_2017_05_nodc_R2902197_101.nc
+  2017/05: nodc_R2902197_102.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R2902197_102.nc
+    Local file: 2902197_2017_05_nodc_R2902197_102.nc
+  2017/06: nodc_R2902197_103.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902197_103.nc
+    Local file: 2902197_2017_06_nodc_R2902197_103.nc
+  2017/06: nodc_R2902197_104.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902197_104.nc
+    Local file: 2902197_2017_06_nodc_R2902197_104.nc
+  2017/06: nodc_R2902197_105.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902197_105.nc
+    Local file: 2902197_2017_06_nodc_R2902197_105.nc
+  2017/06: nodc_R2902197_108.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R2902197_108.nc
+    Local file: 2902197_2017_06_nodc_R2902197_108.nc
+  2017/07: nodc_R2902197_109.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_109.nc
+    Local file: 2902197_2017_07_nodc_R2902197_109.nc
+  2017/07: nodc_R2902197_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_110.nc
+    Local file: 2902197_2017_07_nodc_R2902197_110.nc
+  2017/07: nodc_R2902197_111.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_111.nc
+    Local file: 2902197_2017_07_nodc_R2902197_111.nc
+  2017/07: nodc_R2902197_112.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_112.nc
+    Local file: 2902197_2017_07_nodc_R2902197_112.nc
+  2017/07: nodc_R2902197_113.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_113.nc
+    Local file: 2902197_2017_07_nodc_R2902197_113.nc
+  2017/07: nodc_R2902197_114.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R2902197_114.nc
+    Local file: 2902197_2017_07_nodc_R2902197_114.nc
+  2017/08: nodc_R2902197_115.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_115.nc
+    Local file: 2902197_2017_08_nodc_R2902197_115.nc
+  2017/08: nodc_R2902197_116.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_116.nc
+    Local file: 2902197_2017_08_nodc_R2902197_116.nc
+  2017/08: nodc_R2902197_117.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_117.nc
+    Local file: 2902197_2017_08_nodc_R2902197_117.nc
+  2017/08: nodc_R2902197_118.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_118.nc
+    Local file: 2902197_2017_08_nodc_R2902197_118.nc
+  2017/08: nodc_R2902197_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_119.nc
+    Local file: 2902197_2017_08_nodc_R2902197_119.nc
+  2017/08: nodc_R2902197_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R2902197_120.nc
+    Local file: 2902197_2017_08_nodc_R2902197_120.nc
+  2017/09: nodc_R2902197_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_121.nc
+    Local file: 2902197_2017_09_nodc_R2902197_121.nc
+  2017/09: nodc_R2902197_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_122.nc
+    Local file: 2902197_2017_09_nodc_R2902197_122.nc
+  2017/09: nodc_R2902197_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_123.nc
+    Local file: 2902197_2017_09_nodc_R2902197_123.nc
+  2017/09: nodc_R2902197_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_124.nc
+    Local file: 2902197_2017_09_nodc_R2902197_124.nc
+  2017/09: nodc_R2902197_125.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_125.nc
+    Local file: 2902197_2017_09_nodc_R2902197_125.nc
+  2017/09: nodc_R2902197_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_126.nc
+    Local file: 2902197_2017_09_nodc_R2902197_126.nc
+  2017/09: nodc_R2902197_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R2902197_127.nc
+    Local file: 2902197_2017_09_nodc_R2902197_127.nc
+  2017/10: nodc_R2902197_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_128.nc
+    Local file: 2902197_2017_10_nodc_R2902197_128.nc
+  2017/10: nodc_R2902197_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_129.nc
+    Local file: 2902197_2017_10_nodc_R2902197_129.nc
+  2017/10: nodc_R2902197_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_130.nc
+    Local file: 2902197_2017_10_nodc_R2902197_130.nc
+  2017/10: nodc_R2902197_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_131.nc
+    Local file: 2902197_2017_10_nodc_R2902197_131.nc
+  2017/10: nodc_R2902197_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_132.nc
+    Local file: 2902197_2017_10_nodc_R2902197_132.nc
+  2017/10: nodc_R2902197_133.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R2902197_133.nc
+    Local file: 2902197_2017_10_nodc_R2902197_133.nc
+  2017/11: nodc_R2902197_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_134.nc
+    Local file: 2902197_2017_11_nodc_R2902197_134.nc
+  2017/11: nodc_R2902197_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_135.nc
+    Local file: 2902197_2017_11_nodc_R2902197_135.nc
+  2017/11: nodc_R2902197_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_136.nc
+    Local file: 2902197_2017_11_nodc_R2902197_136.nc
+  2017/11: nodc_R2902197_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_137.nc
+    Local file: 2902197_2017_11_nodc_R2902197_137.nc
+  2017/11: nodc_R2902197_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_138.nc
+    Local file: 2902197_2017_11_nodc_R2902197_138.nc
+  2017/11: nodc_R2902197_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R2902197_139.nc
+    Local file: 2902197_2017_11_nodc_R2902197_139.nc
+  2017/12: nodc_R2902197_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_140.nc
+    Local file: 2902197_2017_12_nodc_R2902197_140.nc
+  2017/12: nodc_R2902197_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_141.nc
+    Local file: 2902197_2017_12_nodc_R2902197_141.nc
+  2017/12: nodc_R2902197_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_142.nc
+    Local file: 2902197_2017_12_nodc_R2902197_142.nc
+  2017/12: nodc_R2902197_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_143.nc
+    Local file: 2902197_2017_12_nodc_R2902197_143.nc
+  2017/12: nodc_R2902197_144.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_144.nc
+    Local file: 2902197_2017_12_nodc_R2902197_144.nc
+  2017/12: nodc_R2902197_145.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_145.nc
+    Local file: 2902197_2017_12_nodc_R2902197_145.nc
+  2017/12: nodc_R2902197_146.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R2902197_146.nc
+    Local file: 2902197_2017_12_nodc_R2902197_146.nc
+  2018/01: nodc_R2902197_147.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_147.nc
+    Local file: 2902197_2018_01_nodc_R2902197_147.nc
+  2018/01: nodc_R2902197_148.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_148.nc
+    Local file: 2902197_2018_01_nodc_R2902197_148.nc
+  2018/01: nodc_R2902197_149.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_149.nc
+    Local file: 2902197_2018_01_nodc_R2902197_149.nc
+  2018/01: nodc_R2902197_150.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_150.nc
+    Local file: 2902197_2018_01_nodc_R2902197_150.nc
+  2018/01: nodc_R2902197_151.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_151.nc
+    Local file: 2902197_2018_01_nodc_R2902197_151.nc
+  2018/01: nodc_R2902197_152.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R2902197_152.nc
+    Local file: 2902197_2018_01_nodc_R2902197_152.nc
+  2018/02: nodc_R2902197_153.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_153.nc
+    Local file: 2902197_2018_02_nodc_R2902197_153.nc
+  2018/02: nodc_R2902197_154.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_154.nc
+    Local file: 2902197_2018_02_nodc_R2902197_154.nc
+  2018/02: nodc_R2902197_155.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_155.nc
+    Local file: 2902197_2018_02_nodc_R2902197_155.nc
+  2018/02: nodc_R2902197_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_156.nc
+    Local file: 2902197_2018_02_nodc_R2902197_156.nc
+  2018/02: nodc_R2902197_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_157.nc
+    Local file: 2902197_2018_02_nodc_R2902197_157.nc
+  2018/02: nodc_R2902197_158.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R2902197_158.nc
+    Local file: 2902197_2018_02_nodc_R2902197_158.nc
+  2018/03: nodc_R2902197_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902197_159.nc
+    Local file: 2902197_2018_03_nodc_R2902197_159.nc
+  2018/03: nodc_R2902197_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902197_160.nc
+    Local file: 2902197_2018_03_nodc_R2902197_160.nc
+  2018/03: nodc_R2902197_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902197_161.nc
+    Local file: 2902197_2018_03_nodc_R2902197_161.nc
+  2018/03: nodc_R2902197_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902197_162.nc
+    Local file: 2902197_2018_03_nodc_R2902197_162.nc
+  2018/03: nodc_R2902197_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R2902197_163.nc
+    Local file: 2902197_2018_03_nodc_R2902197_163.nc
+  2018/04: nodc_R2902197_168.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902197_168.nc
+    Local file: 2902197_2018_04_nodc_R2902197_168.nc
+  2018/04: nodc_R2902197_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902197_169.nc
+    Local file: 2902197_2018_04_nodc_R2902197_169.nc
+  2018/04: nodc_R2902197_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902197_170.nc
+    Local file: 2902197_2018_04_nodc_R2902197_170.nc
+  2018/04: nodc_R2902197_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R2902197_171.nc
+    Local file: 2902197_2018_04_nodc_R2902197_171.nc
+  2018/05: nodc_R2902197_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_172.nc
+    Local file: 2902197_2018_05_nodc_R2902197_172.nc
+  2018/05: nodc_R2902197_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_173.nc
+    Local file: 2902197_2018_05_nodc_R2902197_173.nc
+  2018/05: nodc_R2902197_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_174.nc
+    Local file: 2902197_2018_05_nodc_R2902197_174.nc
+  2018/05: nodc_R2902197_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_175.nc
+    Local file: 2902197_2018_05_nodc_R2902197_175.nc
+  2018/05: nodc_R2902197_176.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_176.nc
+    Local file: 2902197_2018_05_nodc_R2902197_176.nc
+  2018/05: nodc_R2902197_177.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/05/nodc_R2902197_177.nc
+    Local file: 2902197_2018_05_nodc_R2902197_177.nc
+  2018/06: nodc_R2902197_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902197_178.nc
+    Local file: 2902197_2018_06_nodc_R2902197_178.nc
+  2018/06: nodc_R2902197_179.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902197_179.nc
+    Local file: 2902197_2018_06_nodc_R2902197_179.nc
+  2018/06: nodc_R2902197_180.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902197_180.nc
+    Local file: 2902197_2018_06_nodc_R2902197_180.nc
+  2018/06: nodc_R2902197_182.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902197_182.nc
+    Local file: 2902197_2018_06_nodc_R2902197_182.nc
+  2018/06: nodc_R2902197_183.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/06/nodc_R2902197_183.nc
+    Local file: 2902197_2018_06_nodc_R2902197_183.nc
+  2018/07: nodc_R2902197_184.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_184.nc
+    Local file: 2902197_2018_07_nodc_R2902197_184.nc
+  2018/07: nodc_R2902197_185.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_185.nc
+    Local file: 2902197_2018_07_nodc_R2902197_185.nc
+  2018/07: nodc_R2902197_186.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_186.nc
+    Local file: 2902197_2018_07_nodc_R2902197_186.nc
+  2018/07: nodc_R2902197_187.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_187.nc
+    Local file: 2902197_2018_07_nodc_R2902197_187.nc
+  2018/07: nodc_R2902197_188.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_188.nc
+    Local file: 2902197_2018_07_nodc_R2902197_188.nc
+  2018/07: nodc_R2902197_189.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_189.nc
+    Local file: 2902197_2018_07_nodc_R2902197_189.nc
+  2018/07: nodc_R2902197_190.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R2902197_190.nc
+    Local file: 2902197_2018_07_nodc_R2902197_190.nc
+  2018/08: nodc_R2902197_191.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902197_191.nc
+    Local file: 2902197_2018_08_nodc_R2902197_191.nc
+  2018/08: nodc_R2902197_192.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902197_192.nc
+    Local file: 2902197_2018_08_nodc_R2902197_192.nc
+  2018/08: nodc_R2902197_193.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902197_193.nc
+    Local file: 2902197_2018_08_nodc_R2902197_193.nc
+  2018/08: nodc_R2902197_195.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902197_195.nc
+    Local file: 2902197_2018_08_nodc_R2902197_195.nc
+  2018/08: nodc_R2902197_196.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R2902197_196.nc
+    Local file: 2902197_2018_08_nodc_R2902197_196.nc
+  2018/09: nodc_R2902197_197.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_197.nc
+    Local file: 2902197_2018_09_nodc_R2902197_197.nc
+  2018/09: nodc_R2902197_198.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_198.nc
+    Local file: 2902197_2018_09_nodc_R2902197_198.nc
+  2018/09: nodc_R2902197_199.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_199.nc
+    Local file: 2902197_2018_09_nodc_R2902197_199.nc
+  2018/09: nodc_R2902197_200.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_200.nc
+    Local file: 2902197_2018_09_nodc_R2902197_200.nc
+  2018/09: nodc_R2902197_201.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_201.nc
+    Local file: 2902197_2018_09_nodc_R2902197_201.nc
+  2018/09: nodc_R2902197_202.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R2902197_202.nc
+    Local file: 2902197_2018_09_nodc_R2902197_202.nc
+  2018/10: nodc_R2902197_203.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R2902197_203.nc
+    Local file: 2902197_2018_10_nodc_R2902197_203.nc
+  2018/10: nodc_R2902197_204.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R2902197_204.nc
+    Local file: 2902197_2018_10_nodc_R2902197_204.nc
+
+Float 2902302:
+  2020/03: nodc_R2902302_000.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902302_000.nc
+    Local file: 2902302_2020_03_nodc_R2902302_000.nc
+  2020/03: nodc_R2902302_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902302_001.nc
+    Local file: 2902302_2020_03_nodc_R2902302_001.nc
+  2020/03: nodc_R2902302_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R2902302_002.nc
+    Local file: 2902302_2020_03_nodc_R2902302_002.nc
+  2020/04: nodc_R2902302_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902302_003.nc
+    Local file: 2902302_2020_04_nodc_R2902302_003.nc
+  2020/04: nodc_R2902302_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902302_004.nc
+    Local file: 2902302_2020_04_nodc_R2902302_004.nc
+  2020/04: nodc_R2902302_005.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R2902302_005.nc
+    Local file: 2902302_2020_04_nodc_R2902302_005.nc
+  2020/05: nodc_R2902302_006.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902302_006.nc
+    Local file: 2902302_2020_05_nodc_R2902302_006.nc
+  2020/05: nodc_R2902302_007.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902302_007.nc
+    Local file: 2902302_2020_05_nodc_R2902302_007.nc
+  2020/05: nodc_R2902302_008.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R2902302_008.nc
+    Local file: 2902302_2020_05_nodc_R2902302_008.nc
+  2020/06: nodc_R2902302_009.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902302_009.nc
+    Local file: 2902302_2020_06_nodc_R2902302_009.nc
+  2020/06: nodc_R2902302_010.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902302_010.nc
+    Local file: 2902302_2020_06_nodc_R2902302_010.nc
+  2020/06: nodc_R2902302_011.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R2902302_011.nc
+    Local file: 2902302_2020_06_nodc_R2902302_011.nc
+  2020/07: nodc_R2902302_012.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902302_012.nc
+    Local file: 2902302_2020_07_nodc_R2902302_012.nc
+  2020/07: nodc_R2902302_013.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902302_013.nc
+    Local file: 2902302_2020_07_nodc_R2902302_013.nc
+  2020/07: nodc_R2902302_014.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R2902302_014.nc
+    Local file: 2902302_2020_07_nodc_R2902302_014.nc
+  2020/08: nodc_R2902302_015.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R2902302_015.nc
+    Local file: 2902302_2020_08_nodc_R2902302_015.nc
+  2020/08: nodc_R2902302_016.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R2902302_016.nc
+    Local file: 2902302_2020_08_nodc_R2902302_016.nc
+  2020/08: nodc_R2902302_017.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R2902302_017.nc
+    Local file: 2902302_2020_08_nodc_R2902302_017.nc
+  2020/09: nodc_R2902302_018.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R2902302_018.nc
+    Local file: 2902302_2020_09_nodc_R2902302_018.nc
+  2020/09: nodc_R2902302_019.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R2902302_019.nc
+    Local file: 2902302_2020_09_nodc_R2902302_019.nc
+  2020/09: nodc_R2902302_020.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R2902302_020.nc
+    Local file: 2902302_2020_09_nodc_R2902302_020.nc
+
+Float 3901222:
+  2018/07: nodc_R3901222_109.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R3901222_109.nc
+    Local file: 3901222_2018_07_nodc_R3901222_109.nc
+  2018/07: nodc_R3901222_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/07/nodc_R3901222_110.nc
+    Local file: 3901222_2018_07_nodc_R3901222_110.nc
+  2018/08: nodc_R3901222_111.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R3901222_111.nc
+    Local file: 3901222_2018_08_nodc_R3901222_111.nc
+  2018/08: nodc_R3901222_112.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R3901222_112.nc
+    Local file: 3901222_2018_08_nodc_R3901222_112.nc
+  2018/08: nodc_R3901222_113.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/08/nodc_R3901222_113.nc
+    Local file: 3901222_2018_08_nodc_R3901222_113.nc
+  2018/09: nodc_R3901222_114.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R3901222_114.nc
+    Local file: 3901222_2018_09_nodc_R3901222_114.nc
+  2018/09: nodc_R3901222_115.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R3901222_115.nc
+    Local file: 3901222_2018_09_nodc_R3901222_115.nc
+  2018/09: nodc_R3901222_116.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/09/nodc_R3901222_116.nc
+    Local file: 3901222_2018_09_nodc_R3901222_116.nc
+  2018/10: nodc_R3901222_117.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R3901222_117.nc
+    Local file: 3901222_2018_10_nodc_R3901222_117.nc
+  2018/10: nodc_R3901222_118.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R3901222_118.nc
+    Local file: 3901222_2018_10_nodc_R3901222_118.nc
+  2018/10: nodc_R3901222_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R3901222_119.nc
+    Local file: 3901222_2018_10_nodc_R3901222_119.nc
+  2018/11: nodc_R3901222_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R3901222_120.nc
+    Local file: 3901222_2018_11_nodc_R3901222_120.nc
+  2018/11: nodc_R3901222_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R3901222_121.nc
+    Local file: 3901222_2018_11_nodc_R3901222_121.nc
+  2018/11: nodc_R3901222_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R3901222_122.nc
+    Local file: 3901222_2018_11_nodc_R3901222_122.nc
+  2018/12: nodc_R3901222_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R3901222_123.nc
+    Local file: 3901222_2018_12_nodc_R3901222_123.nc
+  2018/12: nodc_R3901222_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R3901222_124.nc
+    Local file: 3901222_2018_12_nodc_R3901222_124.nc
+  2018/12: nodc_R3901222_125.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R3901222_125.nc
+    Local file: 3901222_2018_12_nodc_R3901222_125.nc
+  2019/01: nodc_R3901222_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R3901222_126.nc
+    Local file: 3901222_2019_01_nodc_R3901222_126.nc
+  2019/01: nodc_R3901222_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R3901222_127.nc
+    Local file: 3901222_2019_01_nodc_R3901222_127.nc
+  2019/01: nodc_R3901222_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R3901222_128.nc
+    Local file: 3901222_2019_01_nodc_R3901222_128.nc
+  2019/02: nodc_R3901222_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R3901222_129.nc
+    Local file: 3901222_2019_02_nodc_R3901222_129.nc
+  2019/02: nodc_R3901222_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R3901222_130.nc
+    Local file: 3901222_2019_02_nodc_R3901222_130.nc
+  2019/02: nodc_R3901222_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R3901222_131.nc
+    Local file: 3901222_2019_02_nodc_R3901222_131.nc
+  2019/03: nodc_R3901222_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R3901222_132.nc
+    Local file: 3901222_2019_03_nodc_R3901222_132.nc
+  2019/03: nodc_R3901222_133.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R3901222_133.nc
+    Local file: 3901222_2019_03_nodc_R3901222_133.nc
+  2019/03: nodc_R3901222_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R3901222_134.nc
+    Local file: 3901222_2019_03_nodc_R3901222_134.nc
+  2019/04: nodc_R3901222_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R3901222_135.nc
+    Local file: 3901222_2019_04_nodc_R3901222_135.nc
+  2019/04: nodc_R3901222_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R3901222_136.nc
+    Local file: 3901222_2019_04_nodc_R3901222_136.nc
+  2019/04: nodc_R3901222_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R3901222_137.nc
+    Local file: 3901222_2019_04_nodc_R3901222_137.nc
+  2019/05: nodc_R3901222_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R3901222_138.nc
+    Local file: 3901222_2019_05_nodc_R3901222_138.nc
+  2019/05: nodc_R3901222_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R3901222_139.nc
+    Local file: 3901222_2019_05_nodc_R3901222_139.nc
+  2019/05: nodc_R3901222_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R3901222_140.nc
+    Local file: 3901222_2019_05_nodc_R3901222_140.nc
+  2019/06: nodc_R3901222_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R3901222_141.nc
+    Local file: 3901222_2019_06_nodc_R3901222_141.nc
+  2019/06: nodc_R3901222_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R3901222_142.nc
+    Local file: 3901222_2019_06_nodc_R3901222_142.nc
+  2019/06: nodc_R3901222_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R3901222_143.nc
+    Local file: 3901222_2019_06_nodc_R3901222_143.nc
+  2019/07: nodc_R3901222_144.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R3901222_144.nc
+    Local file: 3901222_2019_07_nodc_R3901222_144.nc
+  2019/07: nodc_R3901222_145.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R3901222_145.nc
+    Local file: 3901222_2019_07_nodc_R3901222_145.nc
+  2019/07: nodc_R3901222_146.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R3901222_146.nc
+    Local file: 3901222_2019_07_nodc_R3901222_146.nc
+  2019/08: nodc_R3901222_147.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R3901222_147.nc
+    Local file: 3901222_2019_08_nodc_R3901222_147.nc
+  2019/08: nodc_R3901222_148.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R3901222_148.nc
+    Local file: 3901222_2019_08_nodc_R3901222_148.nc
+  2019/08: nodc_R3901222_149.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R3901222_149.nc
+    Local file: 3901222_2019_08_nodc_R3901222_149.nc
+  2019/08: nodc_R3901222_150.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R3901222_150.nc
+    Local file: 3901222_2019_08_nodc_R3901222_150.nc
+  2019/09: nodc_R3901222_151.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R3901222_151.nc
+    Local file: 3901222_2019_09_nodc_R3901222_151.nc
+  2019/09: nodc_R3901222_152.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R3901222_152.nc
+    Local file: 3901222_2019_09_nodc_R3901222_152.nc
+  2019/09: nodc_R3901222_153.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R3901222_153.nc
+    Local file: 3901222_2019_09_nodc_R3901222_153.nc
+  2019/10: nodc_R3901222_154.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R3901222_154.nc
+    Local file: 3901222_2019_10_nodc_R3901222_154.nc
+  2019/10: nodc_R3901222_155.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R3901222_155.nc
+    Local file: 3901222_2019_10_nodc_R3901222_155.nc
+  2019/10: nodc_R3901222_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R3901222_156.nc
+    Local file: 3901222_2019_10_nodc_R3901222_156.nc
+  2019/11: nodc_R3901222_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R3901222_157.nc
+    Local file: 3901222_2019_11_nodc_R3901222_157.nc
+  2019/11: nodc_R3901222_158.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R3901222_158.nc
+    Local file: 3901222_2019_11_nodc_R3901222_158.nc
+  2019/11: nodc_R3901222_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R3901222_159.nc
+    Local file: 3901222_2019_11_nodc_R3901222_159.nc
+  2019/12: nodc_R3901222_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R3901222_160.nc
+    Local file: 3901222_2019_12_nodc_R3901222_160.nc
+  2019/12: nodc_R3901222_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R3901222_161.nc
+    Local file: 3901222_2019_12_nodc_R3901222_161.nc
+  2019/12: nodc_R3901222_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R3901222_162.nc
+    Local file: 3901222_2019_12_nodc_R3901222_162.nc
+  2020/01: nodc_R3901222_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R3901222_163.nc
+    Local file: 3901222_2020_01_nodc_R3901222_163.nc
+  2020/01: nodc_R3901222_164.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R3901222_164.nc
+    Local file: 3901222_2020_01_nodc_R3901222_164.nc
+  2020/01: nodc_R3901222_165.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R3901222_165.nc
+    Local file: 3901222_2020_01_nodc_R3901222_165.nc
+  2020/02: nodc_R3901222_166.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R3901222_166.nc
+    Local file: 3901222_2020_02_nodc_R3901222_166.nc
+  2020/02: nodc_R3901222_167.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R3901222_167.nc
+    Local file: 3901222_2020_02_nodc_R3901222_167.nc
+  2020/02: nodc_R3901222_168.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R3901222_168.nc
+    Local file: 3901222_2020_02_nodc_R3901222_168.nc
+  2020/03: nodc_R3901222_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R3901222_169.nc
+    Local file: 3901222_2020_03_nodc_R3901222_169.nc
+  2020/03: nodc_R3901222_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R3901222_170.nc
+    Local file: 3901222_2020_03_nodc_R3901222_170.nc
+  2020/03: nodc_R3901222_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R3901222_171.nc
+    Local file: 3901222_2020_03_nodc_R3901222_171.nc
+  2020/04: nodc_R3901222_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R3901222_172.nc
+    Local file: 3901222_2020_04_nodc_R3901222_172.nc
+  2020/04: nodc_R3901222_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R3901222_173.nc
+    Local file: 3901222_2020_04_nodc_R3901222_173.nc
+  2020/04: nodc_R3901222_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R3901222_174.nc
+    Local file: 3901222_2020_04_nodc_R3901222_174.nc
+  2020/05: nodc_R3901222_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R3901222_175.nc
+    Local file: 3901222_2020_05_nodc_R3901222_175.nc
+  2020/05: nodc_R3901222_176.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R3901222_176.nc
+    Local file: 3901222_2020_05_nodc_R3901222_176.nc
+  2020/05: nodc_R3901222_177.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R3901222_177.nc
+    Local file: 3901222_2020_05_nodc_R3901222_177.nc
+  2020/06: nodc_R3901222_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R3901222_178.nc
+    Local file: 3901222_2020_06_nodc_R3901222_178.nc
+  2020/06: nodc_R3901222_179.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R3901222_179.nc
+    Local file: 3901222_2020_06_nodc_R3901222_179.nc
+  2020/06: nodc_R3901222_180.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R3901222_180.nc
+    Local file: 3901222_2020_06_nodc_R3901222_180.nc
+  2020/07: nodc_R3901222_181.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R3901222_181.nc
+    Local file: 3901222_2020_07_nodc_R3901222_181.nc
+  2020/07: nodc_R3901222_182.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R3901222_182.nc
+    Local file: 3901222_2020_07_nodc_R3901222_182.nc
+  2020/07: nodc_R3901222_183.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R3901222_183.nc
+    Local file: 3901222_2020_07_nodc_R3901222_183.nc
+  2020/08: nodc_R3901222_184.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R3901222_184.nc
+    Local file: 3901222_2020_08_nodc_R3901222_184.nc
+  2020/08: nodc_R3901222_185.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R3901222_185.nc
+    Local file: 3901222_2020_08_nodc_R3901222_185.nc
+  2020/08: nodc_R3901222_186.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R3901222_186.nc
+    Local file: 3901222_2020_08_nodc_R3901222_186.nc
+  2020/08: nodc_R3901222_187.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R3901222_187.nc
+    Local file: 3901222_2020_08_nodc_R3901222_187.nc
+  2020/09: nodc_R3901222_188.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R3901222_188.nc
+    Local file: 3901222_2020_09_nodc_R3901222_188.nc
+  2020/09: nodc_R3901222_189.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R3901222_189.nc
+    Local file: 3901222_2020_09_nodc_R3901222_189.nc
+
+Float 5902369:
+  2019/09: nodc_R5902369_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5902369_178.nc
+    Local file: 5902369_2019_09_nodc_R5902369_178.nc
+  2020/05: nodc_R5902369_209.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5902369_209.nc
+    Local file: 5902369_2020_05_nodc_R5902369_209.nc
+  2020/05: nodc_R5902369_210.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5902369_210.nc
+    Local file: 5902369_2020_05_nodc_R5902369_210.nc
+  2020/06: nodc_R5902369_211.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902369_211.nc
+    Local file: 5902369_2020_06_nodc_R5902369_211.nc
+  2020/06: nodc_R5902369_212.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902369_212.nc
+    Local file: 5902369_2020_06_nodc_R5902369_212.nc
+  2020/06: nodc_R5902369_213.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902369_213.nc
+    Local file: 5902369_2020_06_nodc_R5902369_213.nc
+  2020/06: nodc_R5902369_214.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902369_214.nc
+    Local file: 5902369_2020_06_nodc_R5902369_214.nc
+  2020/07: nodc_R5902369_215.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902369_215.nc
+    Local file: 5902369_2020_07_nodc_R5902369_215.nc
+  2020/07: nodc_R5902369_216.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902369_216.nc
+    Local file: 5902369_2020_07_nodc_R5902369_216.nc
+  2020/07: nodc_R5902369_217.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902369_217.nc
+    Local file: 5902369_2020_07_nodc_R5902369_217.nc
+  2020/07: nodc_R5902369_218.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902369_218.nc
+    Local file: 5902369_2020_07_nodc_R5902369_218.nc
+  2020/08: nodc_R5902369_219.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902369_219.nc
+    Local file: 5902369_2020_08_nodc_R5902369_219.nc
+  2020/08: nodc_R5902369_220.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902369_220.nc
+    Local file: 5902369_2020_08_nodc_R5902369_220.nc
+  2020/08: nodc_R5902369_221.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902369_221.nc
+    Local file: 5902369_2020_08_nodc_R5902369_221.nc
+  2020/08: nodc_R5902369_222.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902369_222.nc
+    Local file: 5902369_2020_08_nodc_R5902369_222.nc
+  2020/09: nodc_R5902369_223.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5902369_223.nc
+    Local file: 5902369_2020_09_nodc_R5902369_223.nc
+  2020/09: nodc_R5902369_224.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5902369_224.nc
+    Local file: 5902369_2020_09_nodc_R5902369_224.nc
+  2020/09: nodc_R5902369_225.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5902369_225.nc
+    Local file: 5902369_2020_09_nodc_R5902369_225.nc
+
+Float 5902504:
+  2019/08: nodc_R5902504_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5902504_100.nc
+    Local file: 5902504_2019_08_nodc_R5902504_100.nc
+  2020/02: nodc_R5902504_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5902504_119.nc
+    Local file: 5902504_2020_02_nodc_R5902504_119.nc
+  2020/02: nodc_R5902504_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5902504_120.nc
+    Local file: 5902504_2020_02_nodc_R5902504_120.nc
+  2020/02: nodc_R5902504_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5902504_121.nc
+    Local file: 5902504_2020_02_nodc_R5902504_121.nc
+  2020/03: nodc_R5902504_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5902504_122.nc
+    Local file: 5902504_2020_03_nodc_R5902504_122.nc
+  2020/03: nodc_R5902504_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5902504_123.nc
+    Local file: 5902504_2020_03_nodc_R5902504_123.nc
+  2020/03: nodc_R5902504_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5902504_124.nc
+    Local file: 5902504_2020_03_nodc_R5902504_124.nc
+  2020/04: nodc_R5902504_125.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5902504_125.nc
+    Local file: 5902504_2020_04_nodc_R5902504_125.nc
+  2020/04: nodc_R5902504_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5902504_126.nc
+    Local file: 5902504_2020_04_nodc_R5902504_126.nc
+  2020/04: nodc_R5902504_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5902504_127.nc
+    Local file: 5902504_2020_04_nodc_R5902504_127.nc
+  2020/05: nodc_R5902504_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5902504_128.nc
+    Local file: 5902504_2020_05_nodc_R5902504_128.nc
+  2020/05: nodc_R5902504_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5902504_129.nc
+    Local file: 5902504_2020_05_nodc_R5902504_129.nc
+  2020/05: nodc_R5902504_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5902504_130.nc
+    Local file: 5902504_2020_05_nodc_R5902504_130.nc
+  2020/06: nodc_R5902504_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902504_131.nc
+    Local file: 5902504_2020_06_nodc_R5902504_131.nc
+  2020/06: nodc_R5902504_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902504_132.nc
+    Local file: 5902504_2020_06_nodc_R5902504_132.nc
+  2020/06: nodc_R5902504_133.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5902504_133.nc
+    Local file: 5902504_2020_06_nodc_R5902504_133.nc
+  2020/07: nodc_R5902504_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902504_134.nc
+    Local file: 5902504_2020_07_nodc_R5902504_134.nc
+  2020/07: nodc_R5902504_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902504_135.nc
+    Local file: 5902504_2020_07_nodc_R5902504_135.nc
+  2020/07: nodc_R5902504_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5902504_136.nc
+    Local file: 5902504_2020_07_nodc_R5902504_136.nc
+  2020/08: nodc_R5902504_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902504_137.nc
+    Local file: 5902504_2020_08_nodc_R5902504_137.nc
+  2020/08: nodc_R5902504_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902504_138.nc
+    Local file: 5902504_2020_08_nodc_R5902504_138.nc
+  2020/08: nodc_R5902504_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5902504_139.nc
+    Local file: 5902504_2020_08_nodc_R5902504_139.nc
+  2020/09: nodc_R5902504_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5902504_140.nc
+    Local file: 5902504_2020_09_nodc_R5902504_140.nc
+  2020/09: nodc_R5902504_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5902504_141.nc
+    Local file: 5902504_2020_09_nodc_R5902504_141.nc
+
+Float 5904448:
+  2019/03: nodc_R5904448_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904448_156.nc
+    Local file: 5904448_2019_03_nodc_R5904448_156.nc
+  2019/03: nodc_R5904448_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904448_157.nc
+    Local file: 5904448_2019_03_nodc_R5904448_157.nc
+  2019/03: nodc_R5904448_158.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904448_158.nc
+    Local file: 5904448_2019_03_nodc_R5904448_158.nc
+  2019/04: nodc_R5904448_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904448_159.nc
+    Local file: 5904448_2019_04_nodc_R5904448_159.nc
+  2019/04: nodc_R5904448_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904448_160.nc
+    Local file: 5904448_2019_04_nodc_R5904448_160.nc
+  2019/04: nodc_R5904448_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904448_161.nc
+    Local file: 5904448_2019_04_nodc_R5904448_161.nc
+  2019/05: nodc_R5904448_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904448_162.nc
+    Local file: 5904448_2019_05_nodc_R5904448_162.nc
+  2019/05: nodc_R5904448_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904448_163.nc
+    Local file: 5904448_2019_05_nodc_R5904448_163.nc
+  2019/05: nodc_R5904448_164.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904448_164.nc
+    Local file: 5904448_2019_05_nodc_R5904448_164.nc
+  2019/06: nodc_R5904448_165.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904448_165.nc
+    Local file: 5904448_2019_06_nodc_R5904448_165.nc
+  2019/06: nodc_R5904448_166.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904448_166.nc
+    Local file: 5904448_2019_06_nodc_R5904448_166.nc
+  2019/06: nodc_R5904448_167.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904448_167.nc
+    Local file: 5904448_2019_06_nodc_R5904448_167.nc
+  2019/07: nodc_R5904448_168.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904448_168.nc
+    Local file: 5904448_2019_07_nodc_R5904448_168.nc
+  2019/07: nodc_R5904448_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904448_169.nc
+    Local file: 5904448_2019_07_nodc_R5904448_169.nc
+  2019/07: nodc_R5904448_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904448_170.nc
+    Local file: 5904448_2019_07_nodc_R5904448_170.nc
+  2019/08: nodc_R5904448_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904448_171.nc
+    Local file: 5904448_2019_08_nodc_R5904448_171.nc
+  2019/08: nodc_R5904448_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904448_172.nc
+    Local file: 5904448_2019_08_nodc_R5904448_172.nc
+  2019/08: nodc_R5904448_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904448_173.nc
+    Local file: 5904448_2019_08_nodc_R5904448_173.nc
+  2019/09: nodc_R5904448_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904448_174.nc
+    Local file: 5904448_2019_09_nodc_R5904448_174.nc
+  2019/09: nodc_R5904448_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904448_175.nc
+    Local file: 5904448_2019_09_nodc_R5904448_175.nc
+  2019/09: nodc_R5904448_176.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904448_176.nc
+    Local file: 5904448_2019_09_nodc_R5904448_176.nc
+  2019/10: nodc_R5904448_177.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904448_177.nc
+    Local file: 5904448_2019_10_nodc_R5904448_177.nc
+  2019/10: nodc_R5904448_178.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904448_178.nc
+    Local file: 5904448_2019_10_nodc_R5904448_178.nc
+  2019/10: nodc_R5904448_179.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904448_179.nc
+    Local file: 5904448_2019_10_nodc_R5904448_179.nc
+  2019/11: nodc_R5904448_180.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904448_180.nc
+    Local file: 5904448_2019_11_nodc_R5904448_180.nc
+  2019/11: nodc_R5904448_181.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904448_181.nc
+    Local file: 5904448_2019_11_nodc_R5904448_181.nc
+  2019/11: nodc_R5904448_182.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904448_182.nc
+    Local file: 5904448_2019_11_nodc_R5904448_182.nc
+  2019/12: nodc_R5904448_183.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904448_183.nc
+    Local file: 5904448_2019_12_nodc_R5904448_183.nc
+  2019/12: nodc_R5904448_184.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904448_184.nc
+    Local file: 5904448_2019_12_nodc_R5904448_184.nc
+  2019/12: nodc_R5904448_185.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904448_185.nc
+    Local file: 5904448_2019_12_nodc_R5904448_185.nc
+  2020/01: nodc_R5904448_186.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904448_186.nc
+    Local file: 5904448_2020_01_nodc_R5904448_186.nc
+  2020/01: nodc_R5904448_187.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904448_187.nc
+    Local file: 5904448_2020_01_nodc_R5904448_187.nc
+  2020/01: nodc_R5904448_188.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904448_188.nc
+    Local file: 5904448_2020_01_nodc_R5904448_188.nc
+  2020/02: nodc_R5904448_189.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904448_189.nc
+    Local file: 5904448_2020_02_nodc_R5904448_189.nc
+  2020/02: nodc_R5904448_190.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904448_190.nc
+    Local file: 5904448_2020_02_nodc_R5904448_190.nc
+  2020/02: nodc_R5904448_191.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904448_191.nc
+    Local file: 5904448_2020_02_nodc_R5904448_191.nc
+  2020/03: nodc_R5904448_192.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904448_192.nc
+    Local file: 5904448_2020_03_nodc_R5904448_192.nc
+  2020/03: nodc_R5904448_193.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904448_193.nc
+    Local file: 5904448_2020_03_nodc_R5904448_193.nc
+  2020/03: nodc_R5904448_194.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904448_194.nc
+    Local file: 5904448_2020_03_nodc_R5904448_194.nc
+  2020/04: nodc_R5904448_195.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904448_195.nc
+    Local file: 5904448_2020_04_nodc_R5904448_195.nc
+  2020/04: nodc_R5904448_196.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904448_196.nc
+    Local file: 5904448_2020_04_nodc_R5904448_196.nc
+  2020/04: nodc_R5904448_197.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904448_197.nc
+    Local file: 5904448_2020_04_nodc_R5904448_197.nc
+  2020/05: nodc_R5904448_198.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904448_198.nc
+    Local file: 5904448_2020_05_nodc_R5904448_198.nc
+  2020/05: nodc_R5904448_199.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904448_199.nc
+    Local file: 5904448_2020_05_nodc_R5904448_199.nc
+  2020/05: nodc_R5904448_200.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904448_200.nc
+    Local file: 5904448_2020_05_nodc_R5904448_200.nc
+  2020/06: nodc_R5904448_201.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904448_201.nc
+    Local file: 5904448_2020_06_nodc_R5904448_201.nc
+  2020/06: nodc_R5904448_202.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904448_202.nc
+    Local file: 5904448_2020_06_nodc_R5904448_202.nc
+  2020/06: nodc_R5904448_203.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904448_203.nc
+    Local file: 5904448_2020_06_nodc_R5904448_203.nc
+  2020/07: nodc_R5904448_204.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904448_204.nc
+    Local file: 5904448_2020_07_nodc_R5904448_204.nc
+  2020/07: nodc_R5904448_205.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904448_205.nc
+    Local file: 5904448_2020_07_nodc_R5904448_205.nc
+  2020/07: nodc_R5904448_206.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904448_206.nc
+    Local file: 5904448_2020_07_nodc_R5904448_206.nc
+  2020/08: nodc_R5904448_207.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904448_207.nc
+    Local file: 5904448_2020_08_nodc_R5904448_207.nc
+  2020/08: nodc_R5904448_208.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904448_208.nc
+    Local file: 5904448_2020_08_nodc_R5904448_208.nc
+  2020/08: nodc_R5904448_209.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904448_209.nc
+    Local file: 5904448_2020_08_nodc_R5904448_209.nc
+
+Float 5904572:
+  2017/05: nodc_R5904572_076.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/05/nodc_R5904572_076.nc
+    Local file: 5904572_2017_05_nodc_R5904572_076.nc
+  2017/06: nodc_R5904572_078.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R5904572_078.nc
+    Local file: 5904572_2017_06_nodc_R5904572_078.nc
+  2017/06: nodc_R5904572_079.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R5904572_079.nc
+    Local file: 5904572_2017_06_nodc_R5904572_079.nc
+  2017/06: nodc_R5904572_080.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/06/nodc_R5904572_080.nc
+    Local file: 5904572_2017_06_nodc_R5904572_080.nc
+  2017/07: nodc_R5904572_081.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R5904572_081.nc
+    Local file: 5904572_2017_07_nodc_R5904572_081.nc
+  2017/07: nodc_R5904572_083.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/07/nodc_R5904572_083.nc
+    Local file: 5904572_2017_07_nodc_R5904572_083.nc
+  2017/08: nodc_R5904572_084.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R5904572_084.nc
+    Local file: 5904572_2017_08_nodc_R5904572_084.nc
+  2017/08: nodc_R5904572_085.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R5904572_085.nc
+    Local file: 5904572_2017_08_nodc_R5904572_085.nc
+  2017/08: nodc_R5904572_086.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/08/nodc_R5904572_086.nc
+    Local file: 5904572_2017_08_nodc_R5904572_086.nc
+  2017/09: nodc_R5904572_087.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R5904572_087.nc
+    Local file: 5904572_2017_09_nodc_R5904572_087.nc
+  2017/09: nodc_R5904572_088.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R5904572_088.nc
+    Local file: 5904572_2017_09_nodc_R5904572_088.nc
+  2017/09: nodc_R5904572_089.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/09/nodc_R5904572_089.nc
+    Local file: 5904572_2017_09_nodc_R5904572_089.nc
+  2017/10: nodc_R5904572_090.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R5904572_090.nc
+    Local file: 5904572_2017_10_nodc_R5904572_090.nc
+  2017/10: nodc_R5904572_091.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R5904572_091.nc
+    Local file: 5904572_2017_10_nodc_R5904572_091.nc
+  2017/10: nodc_R5904572_092.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/10/nodc_R5904572_092.nc
+    Local file: 5904572_2017_10_nodc_R5904572_092.nc
+  2017/11: nodc_R5904572_093.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R5904572_093.nc
+    Local file: 5904572_2017_11_nodc_R5904572_093.nc
+  2017/11: nodc_R5904572_094.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/11/nodc_R5904572_094.nc
+    Local file: 5904572_2017_11_nodc_R5904572_094.nc
+  2017/12: nodc_R5904572_096.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R5904572_096.nc
+    Local file: 5904572_2017_12_nodc_R5904572_096.nc
+  2017/12: nodc_R5904572_097.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2017/12/nodc_R5904572_097.nc
+    Local file: 5904572_2017_12_nodc_R5904572_097.nc
+  2018/01: nodc_R5904572_099.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R5904572_099.nc
+    Local file: 5904572_2018_01_nodc_R5904572_099.nc
+  2018/01: nodc_R5904572_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/01/nodc_R5904572_100.nc
+    Local file: 5904572_2018_01_nodc_R5904572_100.nc
+  2018/02: nodc_R5904572_102.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R5904572_102.nc
+    Local file: 5904572_2018_02_nodc_R5904572_102.nc
+  2018/02: nodc_R5904572_104.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/02/nodc_R5904572_104.nc
+    Local file: 5904572_2018_02_nodc_R5904572_104.nc
+  2018/03: nodc_R5904572_106.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R5904572_106.nc
+    Local file: 5904572_2018_03_nodc_R5904572_106.nc
+  2018/03: nodc_R5904572_107.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/03/nodc_R5904572_107.nc
+    Local file: 5904572_2018_03_nodc_R5904572_107.nc
+  2018/04: nodc_R5904572_108.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R5904572_108.nc
+    Local file: 5904572_2018_04_nodc_R5904572_108.nc
+  2018/04: nodc_R5904572_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/04/nodc_R5904572_110.nc
+    Local file: 5904572_2018_04_nodc_R5904572_110.nc
+
+Float 5904729:
+  2018/10: nodc_R5904729_096.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R5904729_096.nc
+    Local file: 5904729_2018_10_nodc_R5904729_096.nc
+  2018/10: nodc_R5904729_097.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/10/nodc_R5904729_097.nc
+    Local file: 5904729_2018_10_nodc_R5904729_097.nc
+  2018/11: nodc_R5904729_098.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R5904729_098.nc
+    Local file: 5904729_2018_11_nodc_R5904729_098.nc
+  2018/11: nodc_R5904729_099.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R5904729_099.nc
+    Local file: 5904729_2018_11_nodc_R5904729_099.nc
+  2018/11: nodc_R5904729_100.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/11/nodc_R5904729_100.nc
+    Local file: 5904729_2018_11_nodc_R5904729_100.nc
+  2018/12: nodc_R5904729_101.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R5904729_101.nc
+    Local file: 5904729_2018_12_nodc_R5904729_101.nc
+  2018/12: nodc_R5904729_102.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R5904729_102.nc
+    Local file: 5904729_2018_12_nodc_R5904729_102.nc
+  2018/12: nodc_R5904729_103.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2018/12/nodc_R5904729_103.nc
+    Local file: 5904729_2018_12_nodc_R5904729_103.nc
+  2019/01: nodc_R5904729_104.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R5904729_104.nc
+    Local file: 5904729_2019_01_nodc_R5904729_104.nc
+  2019/01: nodc_R5904729_105.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R5904729_105.nc
+    Local file: 5904729_2019_01_nodc_R5904729_105.nc
+  2019/01: nodc_R5904729_106.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/01/nodc_R5904729_106.nc
+    Local file: 5904729_2019_01_nodc_R5904729_106.nc
+  2019/02: nodc_R5904729_107.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R5904729_107.nc
+    Local file: 5904729_2019_02_nodc_R5904729_107.nc
+  2019/02: nodc_R5904729_108.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R5904729_108.nc
+    Local file: 5904729_2019_02_nodc_R5904729_108.nc
+  2019/02: nodc_R5904729_109.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/02/nodc_R5904729_109.nc
+    Local file: 5904729_2019_02_nodc_R5904729_109.nc
+  2019/03: nodc_R5904729_110.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904729_110.nc
+    Local file: 5904729_2019_03_nodc_R5904729_110.nc
+  2019/03: nodc_R5904729_111.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904729_111.nc
+    Local file: 5904729_2019_03_nodc_R5904729_111.nc
+  2019/03: nodc_R5904729_112.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/03/nodc_R5904729_112.nc
+    Local file: 5904729_2019_03_nodc_R5904729_112.nc
+  2019/04: nodc_R5904729_113.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904729_113.nc
+    Local file: 5904729_2019_04_nodc_R5904729_113.nc
+  2019/04: nodc_R5904729_114.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904729_114.nc
+    Local file: 5904729_2019_04_nodc_R5904729_114.nc
+  2019/04: nodc_R5904729_115.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/04/nodc_R5904729_115.nc
+    Local file: 5904729_2019_04_nodc_R5904729_115.nc
+  2019/05: nodc_R5904729_116.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904729_116.nc
+    Local file: 5904729_2019_05_nodc_R5904729_116.nc
+  2019/05: nodc_R5904729_117.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904729_117.nc
+    Local file: 5904729_2019_05_nodc_R5904729_117.nc
+  2019/05: nodc_R5904729_118.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/05/nodc_R5904729_118.nc
+    Local file: 5904729_2019_05_nodc_R5904729_118.nc
+  2019/06: nodc_R5904729_119.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904729_119.nc
+    Local file: 5904729_2019_06_nodc_R5904729_119.nc
+  2019/06: nodc_R5904729_120.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904729_120.nc
+    Local file: 5904729_2019_06_nodc_R5904729_120.nc
+  2019/06: nodc_R5904729_121.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/06/nodc_R5904729_121.nc
+    Local file: 5904729_2019_06_nodc_R5904729_121.nc
+  2019/07: nodc_R5904729_122.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904729_122.nc
+    Local file: 5904729_2019_07_nodc_R5904729_122.nc
+  2019/07: nodc_R5904729_123.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904729_123.nc
+    Local file: 5904729_2019_07_nodc_R5904729_123.nc
+  2019/07: nodc_R5904729_124.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/07/nodc_R5904729_124.nc
+    Local file: 5904729_2019_07_nodc_R5904729_124.nc
+  2019/08: nodc_R5904729_125.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904729_125.nc
+    Local file: 5904729_2019_08_nodc_R5904729_125.nc
+  2019/08: nodc_R5904729_126.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904729_126.nc
+    Local file: 5904729_2019_08_nodc_R5904729_126.nc
+  2019/08: nodc_R5904729_127.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/08/nodc_R5904729_127.nc
+    Local file: 5904729_2019_08_nodc_R5904729_127.nc
+  2019/09: nodc_R5904729_128.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904729_128.nc
+    Local file: 5904729_2019_09_nodc_R5904729_128.nc
+  2019/09: nodc_R5904729_129.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904729_129.nc
+    Local file: 5904729_2019_09_nodc_R5904729_129.nc
+  2019/09: nodc_R5904729_130.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5904729_130.nc
+    Local file: 5904729_2019_09_nodc_R5904729_130.nc
+  2019/10: nodc_R5904729_131.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904729_131.nc
+    Local file: 5904729_2019_10_nodc_R5904729_131.nc
+  2019/10: nodc_R5904729_132.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904729_132.nc
+    Local file: 5904729_2019_10_nodc_R5904729_132.nc
+  2019/10: nodc_R5904729_133.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5904729_133.nc
+    Local file: 5904729_2019_10_nodc_R5904729_133.nc
+  2019/11: nodc_R5904729_134.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904729_134.nc
+    Local file: 5904729_2019_11_nodc_R5904729_134.nc
+  2019/11: nodc_R5904729_135.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904729_135.nc
+    Local file: 5904729_2019_11_nodc_R5904729_135.nc
+  2019/11: nodc_R5904729_136.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5904729_136.nc
+    Local file: 5904729_2019_11_nodc_R5904729_136.nc
+  2019/12: nodc_R5904729_137.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904729_137.nc
+    Local file: 5904729_2019_12_nodc_R5904729_137.nc
+  2019/12: nodc_R5904729_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904729_138.nc
+    Local file: 5904729_2019_12_nodc_R5904729_138.nc
+  2019/12: nodc_R5904729_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904729_139.nc
+    Local file: 5904729_2019_12_nodc_R5904729_139.nc
+  2019/12: nodc_R5904729_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5904729_140.nc
+    Local file: 5904729_2019_12_nodc_R5904729_140.nc
+  2020/01: nodc_R5904729_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904729_141.nc
+    Local file: 5904729_2020_01_nodc_R5904729_141.nc
+  2020/01: nodc_R5904729_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904729_142.nc
+    Local file: 5904729_2020_01_nodc_R5904729_142.nc
+  2020/01: nodc_R5904729_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5904729_143.nc
+    Local file: 5904729_2020_01_nodc_R5904729_143.nc
+  2020/02: nodc_R5904729_144.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904729_144.nc
+    Local file: 5904729_2020_02_nodc_R5904729_144.nc
+  2020/02: nodc_R5904729_145.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904729_145.nc
+    Local file: 5904729_2020_02_nodc_R5904729_145.nc
+  2020/02: nodc_R5904729_146.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5904729_146.nc
+    Local file: 5904729_2020_02_nodc_R5904729_146.nc
+  2020/03: nodc_R5904729_147.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904729_147.nc
+    Local file: 5904729_2020_03_nodc_R5904729_147.nc
+  2020/03: nodc_R5904729_148.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904729_148.nc
+    Local file: 5904729_2020_03_nodc_R5904729_148.nc
+  2020/03: nodc_R5904729_149.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5904729_149.nc
+    Local file: 5904729_2020_03_nodc_R5904729_149.nc
+  2020/04: nodc_R5904729_150.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904729_150.nc
+    Local file: 5904729_2020_04_nodc_R5904729_150.nc
+  2020/04: nodc_R5904729_151.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904729_151.nc
+    Local file: 5904729_2020_04_nodc_R5904729_151.nc
+  2020/04: nodc_R5904729_152.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5904729_152.nc
+    Local file: 5904729_2020_04_nodc_R5904729_152.nc
+  2020/05: nodc_R5904729_153.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904729_153.nc
+    Local file: 5904729_2020_05_nodc_R5904729_153.nc
+  2020/05: nodc_R5904729_154.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904729_154.nc
+    Local file: 5904729_2020_05_nodc_R5904729_154.nc
+  2020/05: nodc_R5904729_155.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5904729_155.nc
+    Local file: 5904729_2020_05_nodc_R5904729_155.nc
+  2020/06: nodc_R5904729_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904729_156.nc
+    Local file: 5904729_2020_06_nodc_R5904729_156.nc
+  2020/06: nodc_R5904729_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904729_157.nc
+    Local file: 5904729_2020_06_nodc_R5904729_157.nc
+  2020/06: nodc_R5904729_158.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5904729_158.nc
+    Local file: 5904729_2020_06_nodc_R5904729_158.nc
+  2020/07: nodc_R5904729_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904729_159.nc
+    Local file: 5904729_2020_07_nodc_R5904729_159.nc
+  2020/07: nodc_R5904729_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904729_160.nc
+    Local file: 5904729_2020_07_nodc_R5904729_160.nc
+  2020/07: nodc_R5904729_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5904729_161.nc
+    Local file: 5904729_2020_07_nodc_R5904729_161.nc
+  2020/08: nodc_R5904729_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904729_162.nc
+    Local file: 5904729_2020_08_nodc_R5904729_162.nc
+  2020/08: nodc_R5904729_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904729_163.nc
+    Local file: 5904729_2020_08_nodc_R5904729_163.nc
+  2020/08: nodc_R5904729_164.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5904729_164.nc
+    Local file: 5904729_2020_08_nodc_R5904729_164.nc
+  2020/09: nodc_R5904729_165.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5904729_165.nc
+    Local file: 5904729_2020_09_nodc_R5904729_165.nc
+  2020/09: nodc_R5904729_166.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5904729_166.nc
+    Local file: 5904729_2020_09_nodc_R5904729_166.nc
+
+Float 5905020:
+  2019/09: nodc_R5905020_138.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5905020_138.nc
+    Local file: 5905020_2019_09_nodc_R5905020_138.nc
+  2019/09: nodc_R5905020_139.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/09/nodc_R5905020_139.nc
+    Local file: 5905020_2019_09_nodc_R5905020_139.nc
+  2019/10: nodc_R5905020_140.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5905020_140.nc
+    Local file: 5905020_2019_10_nodc_R5905020_140.nc
+  2019/10: nodc_R5905020_141.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5905020_141.nc
+    Local file: 5905020_2019_10_nodc_R5905020_141.nc
+  2019/10: nodc_R5905020_142.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/10/nodc_R5905020_142.nc
+    Local file: 5905020_2019_10_nodc_R5905020_142.nc
+  2019/11: nodc_R5905020_143.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5905020_143.nc
+    Local file: 5905020_2019_11_nodc_R5905020_143.nc
+  2019/11: nodc_R5905020_144.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5905020_144.nc
+    Local file: 5905020_2019_11_nodc_R5905020_144.nc
+  2019/11: nodc_R5905020_145.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/11/nodc_R5905020_145.nc
+    Local file: 5905020_2019_11_nodc_R5905020_145.nc
+  2019/12: nodc_R5905020_146.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5905020_146.nc
+    Local file: 5905020_2019_12_nodc_R5905020_146.nc
+  2019/12: nodc_R5905020_147.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5905020_147.nc
+    Local file: 5905020_2019_12_nodc_R5905020_147.nc
+  2019/12: nodc_R5905020_148.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5905020_148.nc
+    Local file: 5905020_2019_12_nodc_R5905020_148.nc
+  2019/12: nodc_R5905020_149.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R5905020_149.nc
+    Local file: 5905020_2019_12_nodc_R5905020_149.nc
+  2020/01: nodc_R5905020_150.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5905020_150.nc
+    Local file: 5905020_2020_01_nodc_R5905020_150.nc
+  2020/01: nodc_R5905020_151.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5905020_151.nc
+    Local file: 5905020_2020_01_nodc_R5905020_151.nc
+  2020/01: nodc_R5905020_152.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R5905020_152.nc
+    Local file: 5905020_2020_01_nodc_R5905020_152.nc
+  2020/02: nodc_R5905020_153.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5905020_153.nc
+    Local file: 5905020_2020_02_nodc_R5905020_153.nc
+  2020/02: nodc_R5905020_154.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5905020_154.nc
+    Local file: 5905020_2020_02_nodc_R5905020_154.nc
+  2020/02: nodc_R5905020_155.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R5905020_155.nc
+    Local file: 5905020_2020_02_nodc_R5905020_155.nc
+  2020/03: nodc_R5905020_156.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5905020_156.nc
+    Local file: 5905020_2020_03_nodc_R5905020_156.nc
+  2020/03: nodc_R5905020_157.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5905020_157.nc
+    Local file: 5905020_2020_03_nodc_R5905020_157.nc
+  2020/03: nodc_R5905020_158.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5905020_158.nc
+    Local file: 5905020_2020_03_nodc_R5905020_158.nc
+  2020/04: nodc_R5905020_159.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5905020_159.nc
+    Local file: 5905020_2020_04_nodc_R5905020_159.nc
+  2020/04: nodc_R5905020_160.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5905020_160.nc
+    Local file: 5905020_2020_04_nodc_R5905020_160.nc
+  2020/04: nodc_R5905020_161.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5905020_161.nc
+    Local file: 5905020_2020_04_nodc_R5905020_161.nc
+  2020/05: nodc_R5905020_162.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5905020_162.nc
+    Local file: 5905020_2020_05_nodc_R5905020_162.nc
+  2020/05: nodc_R5905020_163.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5905020_163.nc
+    Local file: 5905020_2020_05_nodc_R5905020_163.nc
+  2020/05: nodc_R5905020_164.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5905020_164.nc
+    Local file: 5905020_2020_05_nodc_R5905020_164.nc
+  2020/06: nodc_R5905020_165.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5905020_165.nc
+    Local file: 5905020_2020_06_nodc_R5905020_165.nc
+  2020/06: nodc_R5905020_166.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5905020_166.nc
+    Local file: 5905020_2020_06_nodc_R5905020_166.nc
+  2020/06: nodc_R5905020_167.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5905020_167.nc
+    Local file: 5905020_2020_06_nodc_R5905020_167.nc
+  2020/07: nodc_R5905020_169.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5905020_169.nc
+    Local file: 5905020_2020_07_nodc_R5905020_169.nc
+  2020/07: nodc_R5905020_170.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5905020_170.nc
+    Local file: 5905020_2020_07_nodc_R5905020_170.nc
+  2020/08: nodc_R5905020_171.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5905020_171.nc
+    Local file: 5905020_2020_08_nodc_R5905020_171.nc
+  2020/08: nodc_R5905020_172.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5905020_172.nc
+    Local file: 5905020_2020_08_nodc_R5905020_172.nc
+  2020/08: nodc_R5905020_173.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5905020_173.nc
+    Local file: 5905020_2020_08_nodc_R5905020_173.nc
+  2020/09: nodc_R5905020_174.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5905020_174.nc
+    Local file: 5905020_2020_09_nodc_R5905020_174.nc
+  2020/09: nodc_R5905020_175.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5905020_175.nc
+    Local file: 5905020_2020_09_nodc_R5905020_175.nc
+  2020/09: nodc_R5905020_176.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5905020_176.nc
+    Local file: 5905020_2020_09_nodc_R5905020_176.nc
+
+Float 5906218:
+  2020/03: nodc_R5906218_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5906218_001.nc
+    Local file: 5906218_2020_03_nodc_R5906218_001.nc
+  2020/03: nodc_R5906218_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R5906218_002.nc
+    Local file: 5906218_2020_03_nodc_R5906218_002.nc
+  2020/04: nodc_R5906218_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5906218_003.nc
+    Local file: 5906218_2020_04_nodc_R5906218_003.nc
+  2020/04: nodc_R5906218_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5906218_004.nc
+    Local file: 5906218_2020_04_nodc_R5906218_004.nc
+  2020/04: nodc_R5906218_005.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R5906218_005.nc
+    Local file: 5906218_2020_04_nodc_R5906218_005.nc
+  2020/05: nodc_R5906218_006.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5906218_006.nc
+    Local file: 5906218_2020_05_nodc_R5906218_006.nc
+  2020/05: nodc_R5906218_007.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5906218_007.nc
+    Local file: 5906218_2020_05_nodc_R5906218_007.nc
+  2020/05: nodc_R5906218_008.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R5906218_008.nc
+    Local file: 5906218_2020_05_nodc_R5906218_008.nc
+  2020/06: nodc_R5906218_009.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5906218_009.nc
+    Local file: 5906218_2020_06_nodc_R5906218_009.nc
+  2020/06: nodc_R5906218_010.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5906218_010.nc
+    Local file: 5906218_2020_06_nodc_R5906218_010.nc
+  2020/06: nodc_R5906218_011.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R5906218_011.nc
+    Local file: 5906218_2020_06_nodc_R5906218_011.nc
+  2020/07: nodc_R5906218_012.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5906218_012.nc
+    Local file: 5906218_2020_07_nodc_R5906218_012.nc
+  2020/07: nodc_R5906218_013.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5906218_013.nc
+    Local file: 5906218_2020_07_nodc_R5906218_013.nc
+  2020/07: nodc_R5906218_014.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R5906218_014.nc
+    Local file: 5906218_2020_07_nodc_R5906218_014.nc
+  2020/08: nodc_R5906218_015.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5906218_015.nc
+    Local file: 5906218_2020_08_nodc_R5906218_015.nc
+  2020/08: nodc_R5906218_016.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5906218_016.nc
+    Local file: 5906218_2020_08_nodc_R5906218_016.nc
+  2020/08: nodc_R5906218_017.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5906218_017.nc
+    Local file: 5906218_2020_08_nodc_R5906218_017.nc
+  2020/09: nodc_R5906218_018.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5906218_018.nc
+    Local file: 5906218_2020_09_nodc_R5906218_018.nc
+  2020/09: nodc_R5906218_019.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5906218_019.nc
+    Local file: 5906218_2020_09_nodc_R5906218_019.nc
+
+Float 5906280:
+  2020/08: nodc_R5906280_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5906280_001.nc
+    Local file: 5906280_2020_08_nodc_R5906280_001.nc
+  2020/08: nodc_R5906280_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R5906280_002.nc
+    Local file: 5906280_2020_08_nodc_R5906280_002.nc
+  2020/09: nodc_R5906280_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5906280_003.nc
+    Local file: 5906280_2020_09_nodc_R5906280_003.nc
+  2020/09: nodc_R5906280_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R5906280_004.nc
+    Local file: 5906280_2020_09_nodc_R5906280_004.nc
+
+Float 7900333:
+  2020/01: nodc_R7900333_262.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R7900333_262.nc
+    Local file: 7900333_2020_01_nodc_R7900333_262.nc
+  2020/01: nodc_R7900333_263.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R7900333_263.nc
+    Local file: 7900333_2020_01_nodc_R7900333_263.nc
+  2020/02: nodc_R7900333_264.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900333_264.nc
+    Local file: 7900333_2020_02_nodc_R7900333_264.nc
+  2020/02: nodc_R7900333_265.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900333_265.nc
+    Local file: 7900333_2020_02_nodc_R7900333_265.nc
+  2020/03: nodc_R7900333_266.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900333_266.nc
+    Local file: 7900333_2020_03_nodc_R7900333_266.nc
+  2020/03: nodc_R7900333_267.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900333_267.nc
+    Local file: 7900333_2020_03_nodc_R7900333_267.nc
+  2020/03: nodc_R7900333_268.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900333_268.nc
+    Local file: 7900333_2020_03_nodc_R7900333_268.nc
+  2020/03: nodc_R7900333_269.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900333_269.nc
+    Local file: 7900333_2020_03_nodc_R7900333_269.nc
+  2020/04: nodc_R7900333_270.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900333_270.nc
+    Local file: 7900333_2020_04_nodc_R7900333_270.nc
+  2020/04: nodc_R7900333_271.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900333_271.nc
+    Local file: 7900333_2020_04_nodc_R7900333_271.nc
+  2020/04: nodc_R7900333_272.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900333_272.nc
+    Local file: 7900333_2020_04_nodc_R7900333_272.nc
+  2020/05: nodc_R7900333_273.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900333_273.nc
+    Local file: 7900333_2020_05_nodc_R7900333_273.nc
+  2020/05: nodc_R7900333_274.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900333_274.nc
+    Local file: 7900333_2020_05_nodc_R7900333_274.nc
+  2020/05: nodc_R7900333_275.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900333_275.nc
+    Local file: 7900333_2020_05_nodc_R7900333_275.nc
+  2020/06: nodc_R7900333_276.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900333_276.nc
+    Local file: 7900333_2020_06_nodc_R7900333_276.nc
+  2020/06: nodc_R7900333_277.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900333_277.nc
+    Local file: 7900333_2020_06_nodc_R7900333_277.nc
+  2020/06: nodc_R7900333_278.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900333_278.nc
+    Local file: 7900333_2020_06_nodc_R7900333_278.nc
+  2020/07: nodc_R7900333_279.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R7900333_279.nc
+    Local file: 7900333_2020_07_nodc_R7900333_279.nc
+  2020/07: nodc_R7900333_280.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R7900333_280.nc
+    Local file: 7900333_2020_07_nodc_R7900333_280.nc
+  2020/07: nodc_R7900333_281.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R7900333_281.nc
+    Local file: 7900333_2020_07_nodc_R7900333_281.nc
+  2020/08: nodc_R7900333_282.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R7900333_282.nc
+    Local file: 7900333_2020_08_nodc_R7900333_282.nc
+  2020/08: nodc_R7900333_283.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R7900333_283.nc
+    Local file: 7900333_2020_08_nodc_R7900333_283.nc
+  2020/08: nodc_R7900333_284.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/08/nodc_R7900333_284.nc
+    Local file: 7900333_2020_08_nodc_R7900333_284.nc
+  2020/09: nodc_R7900333_285.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R7900333_285.nc
+    Local file: 7900333_2020_09_nodc_R7900333_285.nc
+  2020/09: nodc_R7900333_286.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R7900333_286.nc
+    Local file: 7900333_2020_09_nodc_R7900333_286.nc
+  2020/09: nodc_R7900333_287.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/09/nodc_R7900333_287.nc
+    Local file: 7900333_2020_09_nodc_R7900333_287.nc
+
+Float 7900647:
+  2019/12: nodc_R7900647_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2019/12/nodc_R7900647_001.nc
+    Local file: 7900647_2019_12_nodc_R7900647_001.nc
+  2020/01: nodc_R7900647_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R7900647_002.nc
+    Local file: 7900647_2020_01_nodc_R7900647_002.nc
+  2020/01: nodc_R7900647_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R7900647_003.nc
+    Local file: 7900647_2020_01_nodc_R7900647_003.nc
+  2020/01: nodc_R7900647_004.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/01/nodc_R7900647_004.nc
+    Local file: 7900647_2020_01_nodc_R7900647_004.nc
+  2020/02: nodc_R7900647_005.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900647_005.nc
+    Local file: 7900647_2020_02_nodc_R7900647_005.nc
+  2020/02: nodc_R7900647_006.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900647_006.nc
+    Local file: 7900647_2020_02_nodc_R7900647_006.nc
+  2020/02: nodc_R7900647_007.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900647_007.nc
+    Local file: 7900647_2020_02_nodc_R7900647_007.nc
+  2020/03: nodc_R7900647_008.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900647_008.nc
+    Local file: 7900647_2020_03_nodc_R7900647_008.nc
+  2020/03: nodc_R7900647_009.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900647_009.nc
+    Local file: 7900647_2020_03_nodc_R7900647_009.nc
+  2020/03: nodc_R7900647_010.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900647_010.nc
+    Local file: 7900647_2020_03_nodc_R7900647_010.nc
+  2020/04: nodc_R7900647_011.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900647_011.nc
+    Local file: 7900647_2020_04_nodc_R7900647_011.nc
+  2020/04: nodc_R7900647_012.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900647_012.nc
+    Local file: 7900647_2020_04_nodc_R7900647_012.nc
+  2020/04: nodc_R7900647_013.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/04/nodc_R7900647_013.nc
+    Local file: 7900647_2020_04_nodc_R7900647_013.nc
+  2020/05: nodc_R7900647_014.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900647_014.nc
+    Local file: 7900647_2020_05_nodc_R7900647_014.nc
+  2020/05: nodc_R7900647_015.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900647_015.nc
+    Local file: 7900647_2020_05_nodc_R7900647_015.nc
+  2020/05: nodc_R7900647_016.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/05/nodc_R7900647_016.nc
+    Local file: 7900647_2020_05_nodc_R7900647_016.nc
+  2020/06: nodc_R7900647_017.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900647_017.nc
+    Local file: 7900647_2020_06_nodc_R7900647_017.nc
+  2020/06: nodc_R7900647_018.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900647_018.nc
+    Local file: 7900647_2020_06_nodc_R7900647_018.nc
+  2020/06: nodc_R7900647_019.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/06/nodc_R7900647_019.nc
+    Local file: 7900647_2020_06_nodc_R7900647_019.nc
+  2020/07: nodc_R7900647_020.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/07/nodc_R7900647_020.nc
+    Local file: 7900647_2020_07_nodc_R7900647_020.nc
+
+Float 7900903:
+  2020/02: nodc_R7900903_001.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/02/nodc_R7900903_001.nc
+    Local file: 7900903_2020_02_nodc_R7900903_001.nc
+  2020/03: nodc_R7900903_002.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900903_002.nc
+    Local file: 7900903_2020_03_nodc_R7900903_002.nc
+  2020/03: nodc_R7900903_003.nc
+    URL: https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/indian/2020/03/nodc_R7900903_003.nc
+    Local file: 7900903_2020_03_nodc_R7900903_003.nc
