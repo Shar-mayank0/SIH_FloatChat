@@ -8,47 +8,43 @@ import os
 
 class ArgoConsole:
     def __init__(self):
+    def __init__(self):
+        print("[ArgoConsole.__init__] Initializing QueryEngine...")
         self.query_engine = QueryEngine()
+        print("[ArgoConsole.__init__] QueryEngine initialized.")
         self.query_history = []
+        print("[ArgoConsole.__init__] Query history initialized.")
         self.session_start = datetime.now()
+        print(f"[ArgoConsole.__init__] Session started at {self.session_start}")
         
     def clear_screen(self):
         """Clear the console screen."""
+        print("[ArgoConsole.clear_screen] Clearing screen...")
         os.system('cls' if os.name == 'nt' else 'clear')
         
     def print_separator(self, char='-', length=80):
         """Print a separator line."""
+        print(f"[ArgoConsole.print_separator] Printing separator with char='{char}' and length={length}")
         print(char * length)
         
     def print_header(self, title):
         """Print a header with a title."""
+        print(f"[ArgoConsole.print_header] Printing header for title: {title}")
         self.print_separator()
         print(f"| {title} |".center(80))
         self.print_separator()
         
     def show_welcome(self):
         """Display welcome screen with system information."""
+        print("[ArgoConsole.show_welcome] Showing welcome screen...")
         self.print_header("🌊 ARGO Oceanographic Data Chatbot")
         
         welcome_text = """
 Welcome to the interactive console for querying Argo oceanographic data!
 
 Available Commands:
-- Natural language queries: Ask questions about oceanographic data
-- /help - Show this help message
-- /schema - Display database schema
-- /sample [table] - Show sample data from a table
-- /history - Show query history
-- /clear - Clear the console
-- /stats - Show session statistics
-- /exit - Exit the application
 
 Example Queries:
-- "Show me the latest 10 profiles from the Pacific Ocean"
-- "What's the average temperature at 1000 meter depth?"
-- "Find profiles with high salinity measurements"
-- "Show temperature trends over the last year"
-- "Get profiles with salinity greater than 35"
         """
         
         print(welcome_text)
@@ -59,6 +55,7 @@ Example Queries:
     
     def show_system_status(self):
         """Display system status information."""
+        print("[ArgoConsole.show_system_status] Showing system status...")
         self.print_header("🔧 System Status")
         
         try:
@@ -83,6 +80,7 @@ Example Queries:
     
     def show_schema(self):
         """Display database schema in a formatted way."""
+        print("[ArgoConsole.show_schema] Showing database schema...")
         self.print_header("📊 Database Schema")
         
         try:
@@ -120,9 +118,10 @@ Example Queries:
     
     def show_sample_data(self, table_name: Optional[str] = None):
         """Display sample data from specified table."""
-        if not table_name:
-            print("Available tables: argo_profiles, measurements")
-            table_name = input("Enter table name [argo_profiles]: ").strip() or "argo_profiles"
+            print(f"[ArgoConsole.show_sample_data] Showing sample data for table: {table_name}")
+            if not table_name:
+                print("Available tables: argo_profiles, measurements")
+                table_name = input("Enter table name [argo_profiles]: ").strip() or "argo_profiles"
         
         # Create a simple query to get sample data
         sample_query = f"Show me 5 sample records from the {table_name} table"
@@ -137,6 +136,7 @@ Example Queries:
     
     def show_history(self):
         """Display query history."""
+        print("[ArgoConsole.show_history] Showing query history...")
         self.print_header("📜 Query History (Last 10)")
         
         if not self.query_history:
@@ -158,6 +158,7 @@ Example Queries:
     
     def show_stats(self):
         """Display session statistics."""
+        print("[ArgoConsole.show_stats] Showing session statistics...")
         self.print_header("📈 Session Statistics")
         
         total_queries = len(self.query_history)
@@ -184,8 +185,11 @@ Example Queries:
     
     def _display_query_results(self, result: Dict[str, Any], title: str = "🎯 Query Results"):
         """Display query results in a formatted table."""
-        if not result["success"]:
-            return
+            print(f"[ArgoConsole._display_query_results] Displaying query results for title: {title}")
+            print(f"[ArgoConsole._display_query_results] Result: {result}")
+            if not result["success"]:
+                print("[ArgoConsole._display_query_results] Result not successful, returning.")
+                return
         
         results = result["results"]
         row_count = result["row_count"]
@@ -243,10 +247,13 @@ Example Queries:
     
     def process_query(self, user_input: str):
         """Process a natural language query."""
-        print("🤖 Processing your query...", end="", flush=True)
+            print(f"[ArgoConsole.process_query] Received user_input: {user_input}")
+            print("🤖 Processing your query...", end="", flush=True)
         
         # Execute query using the query engine
-        result = self.query_engine.generate_and_execute_query(user_input)
+            print(f"[ArgoConsole.process_query] Calling generate_and_execute_query...")
+            result = self.query_engine.generate_and_execute_query(user_input)
+            print(f"[ArgoConsole.process_query] Query result: {result}")
         
         # Add debugging output
         if not result["success"] and "syntax error" in str(result.get("error", "")):
@@ -255,6 +262,7 @@ Example Queries:
             print(f"{repr(query_text)}")
         
         # Record in history
+            print(f"[ArgoConsole.process_query] Recording query history entry...")
         history_entry = {
             "query": user_input,
             "success": result["success"],
@@ -264,16 +272,21 @@ Example Queries:
         }
         self.query_history.append(history_entry)
         
+            print("[ArgoConsole.process_query] Query history updated.")
         print(" ✅ Done!")
         
         # Display results
         if result["success"]:
+                print("[ArgoConsole.process_query] Displaying query results...")
             self._display_query_results(result)
         else:
+                print("[ArgoConsole.process_query] Displaying error...")
             self._display_error(result, user_input)
     
     def _display_error(self, result: Dict[str, Any], user_input: str):
         """Display error information with helpful suggestions."""
+        print(f"[ArgoConsole._display_error] Displaying error for user_input: {user_input}")
+        print(f"[ArgoConsole._display_error] Result: {result}")
         error_message = result["error"]
         query = result.get("query", "")
         
@@ -307,6 +320,7 @@ Example Queries:
     
     def _get_syntax_error_suggestions(self, error_message: str) -> str:
         """Get suggestions for SQL syntax errors."""
+        print(f"[ArgoConsole._get_syntax_error_suggestions] Error message: {error_message}")
         if "```" in error_message:
             return ("• The query contained markdown formatting\n"
                    "• This is a system issue - please try rephrasing your question\n"
@@ -317,12 +331,14 @@ Example Queries:
     
     def _get_schema_error_suggestions(self, error_message: str) -> str:
         """Get suggestions for schema-related errors."""
+        print(f"[ArgoConsole._get_schema_error_suggestions] Error message: {error_message}")
         return ("• Use '/schema' command to see available tables and columns\n"
                "• Available tables: argo_profiles, measurements\n"
                "• Check column names and table references")
     
     def _get_general_error_suggestions(self) -> str:
         """Get general error suggestions."""
+        print("[ArgoConsole._get_general_error_suggestions] Getting general error suggestions...")
         return ("• Try rephrasing your question\n"
                "• Be more specific about what data you want\n"
                "• Use '/help' to see example queries\n"
@@ -330,6 +346,7 @@ Example Queries:
     
     def handle_command(self, command: str) -> bool:
         """Handle special commands. Returns True if should continue, False if should exit."""
+        print(f"[ArgoConsole.handle_command] Handling command: {command}")
         command = command.strip().lower()
         
         if command == "/exit":
@@ -367,6 +384,7 @@ Example Queries:
     
     def run(self):
         """Main console loop."""
+        print("[ArgoConsole.run] Starting main console loop...")
         self.clear_screen()
         self.show_welcome()
         
@@ -386,16 +404,32 @@ Example Queries:
                         break
                 else:
                     # Process as natural language query
-                    self.process_query(user_input)
-                    
-        except KeyboardInterrupt:
-            print("\nInterrupted by user")
-        except Exception as e:
-            print(f"\nUnexpected error: {str(e)}")
-        finally:
-            print("Goodbye! 👋")
-
-
-if __name__ == "__main__":
-    console_app = ArgoConsole()
-    console_app.run()
+                    print(f"[ArgoConsole.process_query] Received user_input: {user_input}")
+                    print("🤖 Processing your query...", end="", flush=True)
+                    print(f"[ArgoConsole.process_query] Calling generate_and_execute_query...")
+                    result = self.query_engine.generate_and_execute_query(user_input)
+                    print(f"[ArgoConsole.process_query] Query result: {result}")
+                    # Add debugging output
+                    if not result["success"] and "syntax error" in str(result.get("error", "")):
+                        query_text = str(result.get("query", ""))
+                        print("\nDebug - Raw Query:")
+                        print(f"{repr(query_text)}")
+                    # Record in history
+                    print(f"[ArgoConsole.process_query] Recording query history entry...")
+                    history_entry = {
+                        "query": user_input,
+                        "success": result["success"],
+                        "timestamp": datetime.now(),
+                        "row_count": result.get("row_count", 0) if result["success"] else 0,
+                        "error": result.get("error") if not result["success"] else None
+                    }
+                    self.query_history.append(history_entry)
+                    print("[ArgoConsole.process_query] Query history updated.")
+                    print(" ✅ Done!")
+                    # Display results
+                    if result["success"]:
+                        print("[ArgoConsole.process_query] Displaying query results...")
+                        self._display_query_results(result)
+                    else:
+                        print("[ArgoConsole.process_query] Displaying error...")
+                        self._display_error(result, user_input)

@@ -11,48 +11,58 @@ import logging
 from typing import Optional, Dict, Any, Tuple
 from sqlalchemy import inspect, text
 import re
+import traceback
 
 class QueryEngine:
     def __init__(self, schema_metadata=None):
-        print("\n[DEBUG] Initializing QueryEngine...")
+        print("\n[DEBUG] ========== INITIALIZING QUERY ENGINE ==========")
+        print("[DEBUG] Starting QueryEngine initialization...")
         
         # Load environment variables first
+        print("[DEBUG] Loading environment variables...")
         load_dotenv()
+        print("[DEBUG] Environment variables loaded")
         
         # Setup logging
+        print("[DEBUG] Setting up logging...")
         logging.basicConfig(level=logging.INFO)
         self.logger = logging.getLogger(__name__)
+        print("[DEBUG] Logging configured")
         
         # Get API key from environment
+        print("[DEBUG] Retrieving GROQ API key from environment...")
         groq_api_key_str = os.getenv('GROQ_API_KEY')
         if not groq_api_key_str:
-            print("[ERROR] GROQ_API_KEY environment variable is not set")
+            print("[ERROR] GROQ_API_KEY environment variable is not set!")
             raise ValueError("GROQ_API_KEY environment variable is not set")
         
-        print("[DEBUG] GROQ API key found")
+        print("[DEBUG] GROQ API key successfully retrieved")
         groq_api_key = SecretStr(groq_api_key_str)
         
         # Use the NeonDB engine from db_setup
-        print("[DEBUG] Connecting to database...")
+        print("[DEBUG] Initializing database connection...")
         self.engine = get_engine()
+        print("[DEBUG] Got SQLAlchemy engine")
         self.db = SQLDatabase(self.engine)
-        print("[DEBUG] Database connection established")
+        print("[DEBUG] SQLDatabase wrapper initialized")
         
-        print("[DEBUG] Initializing ChatGroq LLM...")
+        print("[DEBUG] Creating ChatGroq LLM instance...")
+        print("[DEBUG] Using model: llama-3.3-70b-versatile")
         self.llm = ChatGroq(
             api_key=groq_api_key,
             model="llama-3.3-70b-versatile",
             temperature=0
         )
-        print("[DEBUG] LLM initialized")
+        print("[DEBUG] ChatGroq LLM instance created")
         
         # Custom prompt template with schema information
-        print("[DEBUG] Creating custom prompt template...")
+        print("[DEBUG] Creating custom prompt template with schema information...")
         self.custom_prompt = self._create_custom_prompt()
-        print("[DEBUG] Custom prompt created")
+        print("[DEBUG] Custom prompt template created successfully")
         
         # Override the output parser to clean SQL queries
-        print("[DEBUG] Setting up SQLDatabaseChain...")
+        print("[DEBUG] Creating SQLDatabaseChain with custom prompt...")
+        print("[DEBUG] Parameters: verbose=True, use_query_checker=True, return_direct=True")
         self.db_chain = SQLDatabaseChain.from_llm(
             llm=self.llm,
             db=self.db,
@@ -61,13 +71,15 @@ class QueryEngine:
             prompt=self.custom_prompt,
             return_direct=True  # Return SQL directly instead of executing it
         )
-        print("[DEBUG] SQLDatabaseChain setup complete")
+        print("[DEBUG] SQLDatabaseChain created successfully")
         self.schema = schema_metadata
-        print("[DEBUG] QueryEngine initialization complete\n")
+        print("[DEBUG] Schema metadata set")
+        print("[DEBUG] ========== QUERY ENGINE INITIALIZATION COMPLETE ==========\n")
     
     def _create_custom_prompt(self) -> PromptTemplate:
         """Create a custom prompt template that includes detailed schema information."""
-        print("[DEBUG] Building custom prompt template...")
+        print("[DEBUG] ========== CREATING CUSTOM PROMPT ==========")
+        print("[DEBUG] Building schema information and instructions...")
         
         schema_info = """
         ARGO OCEANOGRAPHIC DATABASE SCHEMA:
@@ -138,6 +150,7 @@ class QueryEngine:
         7. Use LIMIT clause for large datasets to avoid performance issues
         8. Date formats: profile_date is DATE type, juld is Julian day format
         """
+        print("[DEBUG] Schema information defined")
         
         template = f"""
         You are an expert SQL query generator for an Argo oceanographic database.
@@ -184,29 +197,37 @@ class QueryEngine:
         Question: {{input}}
         
         Remember: Return ONLY the raw SQL query with no formatting or explanations."""
+        print("[DEBUG] Template string created")
         
-        print("[DEBUG] Custom prompt template built")
-        return PromptTemplate(
+        print("[DEBUG] Creating PromptTemplate object...")
+        prompt = PromptTemplate(
             input_variables=["input", "table_info"],
             template=template
         )
+        print("[DEBUG] PromptTemplate object created")
+        print("[DEBUG] ========== CUSTOM PROMPT CREATED ==========")
+        return prompt
     
     def _clean_sql_query(self, query_text: str) -> str:
         """
         Clean and extract SQL query from LLM response.
         Simple, direct approach to remove markdown and extract SQL.
         """
-        print("\n[DEBUG] _clean_sql_query() - Raw input:")
-        print(f"[DEBUG] {repr(query_text)}")
+        print("[DEBUG] ========== CLEAN SQL QUERY ==========")
+        print(f"[DEBUG] _clean_sql_query() called with input: {repr(query_text)}")
         
         if not query_text:
-            print("[ERROR] Empty query text received")
+            print("[ERROR] Empty query text received!")
             raise ValueError("Empty query text received")
         
         # Step 1: Remove the SQLQuery: prefix
         print("[DEBUG] Step 1: Removing SQLQuery: prefix")
+        before = query_text
         query_text = re.sub(r'^SQLQuery:\s*', '', query_text, flags=re.IGNORECASE)
-        print(f"[DEBUG] After Step 1: {repr(query_text)}")
+        if before != query_text:
+            print(f"[DEBUG] SQLQuery: prefix removed: {repr(query_text)}")
+        else:
+            print("[DEBUG] No SQLQuery: prefix found")
         
         # Step 2: Extract content between ```sql and ``` if present
         print("[DEBUG] Step 2: Extracting content between ```sql and ```")
@@ -293,31 +314,48 @@ class QueryEngine:
         Generate SQL query from natural language and execute it.
         Returns structured response with query, results, and metadata.
         """
+        print("\n[DEBUG] ========== GENERATE AND EXECUTE QUERY ==========")
+        print(f"[DEBUG] Question: {question}")
         cleaned_query: Optional[str] = None  # Initialize with type hint
 
         try:
+            print("[DEBUG] Logging question...")
             self.logger.info(f"Processing question: {question}")
             
             # Generate SQL query using the chain
+            print("[DEBUG] Calling LLM chain to generate SQL query...")
+            print("[DEBUG] This may take a few seconds...")
             raw_response = self.db_chain.invoke({"query": question})
+            print("[DEBUG] LLM chain response received!")
             
             # Extract the query from the response
+            print("[DEBUG] Extracting SQL from response...")
             if isinstance(raw_response, dict):
+                print("[DEBUG] Response is a dictionary")
                 query_text = raw_response.get('result', '')
+                print(f"[DEBUG] Extracted result: {repr(query_text[:100])}...")
             else:
+                print("[DEBUG] Response is not a dictionary, converting to string")
                 query_text = str(raw_response)
+                print(f"[DEBUG] Converted to string: {repr(query_text[:100])}...")
             
+            print(f"[DEBUG] FULL RAW RESPONSE: {repr(query_text)}")
             self.logger.info(f"Raw LLM response: {query_text[:200]}...")
             self.logger.info(f"FULL RAW RESPONSE: {repr(query_text)}")
             
-            # Use a more aggressive approach to clean SQL
+            # Clean SQL
+            print("[DEBUG] Cleaning SQL query using _really_clean_sql()...")
             cleaned_query = self._really_clean_sql(query_text)
-            
+            print(f"[DEBUG] Cleaned query: {repr(cleaned_query)}")
             self.logger.info(f"CLEANED QUERY: {repr(cleaned_query)}")
             
             # Validate the query
+            print("[DEBUG] Validating SQL query...")
             is_valid, validation_message = self._validate_sql_query(cleaned_query)
+            print(f"[DEBUG] Validation result: {is_valid}, {validation_message}")
+            
             if not is_valid:
+                print(f"[DEBUG] Query validation failed: {validation_message}")
                 return {
                     "success": False,
                     "error": f"Invalid query: {validation_message}",
@@ -326,14 +364,32 @@ class QueryEngine:
                 }
             
             # Execute the query
+            print(f"[DEBUG] Executing SQL query: {cleaned_query}")
             with self.engine.connect() as connection:
-                result = connection.execute(text(cleaned_query))
-                rows = result.fetchall()
-                columns = result.keys()
-                
-                # Convert to list of dictionaries
-                results = [dict(zip(columns, row)) for row in rows]
+                print("[DEBUG] Database connection established")
+                try:
+                    print("[DEBUG] Executing query with text() wrapper...")
+                    result = connection.execute(text(cleaned_query))
+                    print("[DEBUG] Query executed successfully!")
+                    
+                    print("[DEBUG] Fetching all rows...")
+                    rows = result.fetchall()
+                    print(f"[DEBUG] Fetched {len(rows)} rows")
+                    
+                    print("[DEBUG] Getting column names...")
+                    columns = result.keys()
+                    print(f"[DEBUG] Column names: {list(columns)}")
+                    
+                    # Convert to list of dictionaries
+                    print("[DEBUG] Converting rows to dictionaries...")
+                    results = [dict(zip(columns, row)) for row in rows]
+                    print(f"[DEBUG] Converted {len(results)} rows to dictionaries")
+                except Exception as sql_error:
+                    print(f"[DEBUG] SQL execution error: {str(sql_error)}")
+                    print(f"[DEBUG] SQL that failed: {repr(cleaned_query)}")
+                    raise
             
+            print("[DEBUG] Query execution complete, preparing response")
             return {
                 "success": True,
                 "query": cleaned_query,
@@ -344,6 +400,10 @@ class QueryEngine:
             
         except Exception as e:
             error_msg = str(e)
+            print(f"[DEBUG] Error occurred: {error_msg}")
+            print(f"[DEBUG] Query that failed: {repr(cleaned_query)}")
+            import traceback
+            print(f"[DEBUG] Traceback: {traceback.format_exc()}")
             self.logger.error(f"Query execution failed: {error_msg}")
             return {
                 "success": False,
@@ -351,21 +411,33 @@ class QueryEngine:
                 "query": cleaned_query,
                 "results": None
             }
+        finally:
+            print("[DEBUG] ========== GENERATE AND EXECUTE QUERY COMPLETE ==========")
 
     def _really_clean_sql(self, text: str) -> str:
         """
         Aggressively clean SQL query, guaranteed to remove all markdown.
         """
-        self.logger.info(f"Starting aggressive cleaning of: {repr(text[:100])}...")
+        print("[DEBUG] ========== REALLY CLEAN SQL ==========")
+        print(f"[DEBUG] Input text: {repr(text[:100])}...")
+        
+        if not text:
+            print("[DEBUG] Empty text received!")
+            return ""
         
         # First, handle the SQLQuery: prefix
+        print("[DEBUG] Step 1: Removing SQLQuery prefix")
+        before = text
         text = re.sub(r'^SQLQuery:\s*', '', text, flags=re.IGNORECASE)
+        if before != text:
+            print("[DEBUG] SQLQuery prefix removed")
         
         # Extract SQL from code block if possible
+        print("[DEBUG] Step 2: Looking for ```sql code block...")
         sql_match = re.search(r'```sql\s*(.*?)\s*```', text, re.DOTALL | re.IGNORECASE)
         if sql_match:
             cleaned = sql_match.group(1).strip()
-            self.logger.info(f"Extracted from code block: {repr(cleaned[:100])}...")
+            print(f"[DEBUG] Extracted SQL from code block: {repr(cleaned[:100])}...")
         else:
             # Brute force removal of markdown
             cleaned = text
@@ -377,7 +449,7 @@ class QueryEngine:
             ]:
                 cleaned = re.sub(pattern, '', cleaned, flags=re.MULTILINE | re.IGNORECASE)
             
-            self.logger.info(f"After removing markdown: {repr(cleaned[:100])}...")
+            print(f"[DEBUG] After removing markdown: {repr(cleaned[:100])}...")
         
         # Remove trailing semicolon
         cleaned = re.sub(r';\s*$', '', cleaned.strip())
@@ -387,7 +459,7 @@ class QueryEngine:
             select_match = re.search(r'(SELECT\s+.*)', cleaned, re.IGNORECASE | re.DOTALL)
             if select_match:
                 cleaned = select_match.group(1)
-                self.logger.info(f"Extracted query starting with SELECT: {repr(cleaned[:100])}...")
+                print(f"[DEBUG] Extracted query starting with SELECT: {repr(cleaned[:100])}...")
         
-        self.logger.info(f"Final cleaned query: {repr(cleaned)}")
+        print(f"[DEBUG] Final cleaned query: {repr(cleaned)}")
         return cleaned.strip()
