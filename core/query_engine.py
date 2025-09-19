@@ -3,15 +3,16 @@ from langchain_experimental.sql import SQLDatabaseChain
 from langchain_groq import ChatGroq
 import os
 from dotenv import load_dotenv
+from .db_setup import get_engine
 
 class QueryEngine:
     def __init__(self, groq_api_key: str, schema_metadata=None):
         # Use the NeonDB engine from db_setup
-        self.engine = get_engine() # type: ignore 
+        self.engine = get_engine() 
         self.db = SQLDatabase(self.engine)
 
         load_dotenv()
-        groq_api_key = os.getenv('GROQ_API_KEY') # type: ignore 
+        groq_api_key = os.getenv('GROQ_API_KEY') 
         if groq_api_key is None:
             raise ValueError("GROQ_API_KEY environment variable is not set")
         

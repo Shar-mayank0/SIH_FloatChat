@@ -81,7 +81,7 @@ class NetCDFParser:
         for var_name, var_info in self.variables.items():
             # Coordinate variables usually have the same name as their dimension
             if (len(var_info['dimensions']) == 1 and
-                var_info['dimensions'][0] == var_name):
+                    var_info['dimensions'][0] == var_name):
                 coordinates[var_name] = self.dataset.variables[var_name][:] # type: ignore
                 print(f"Found coordinate variable: {var_name}")
 
@@ -390,10 +390,10 @@ class NetCDFParser:
         if variables_to_extract is None:
             # Focus on the key oceanographic measurements
             variables_to_extract = ['juld', 'latitude', 'longitude', 'pres', 'temp',
-                                  'pres_adjusted', 'temp_adjusted', 'cycle_number']
+                                    'pres_adjusted', 'temp_adjusted', 'cycle_number']
             # Only include variables that exist in the dataset
             variables_to_extract = [var for var in variables_to_extract
-                                  if var in self.variables.keys()]
+                                    if var in self.variables.keys()]
 
         print(f"\nExtracting variables: {variables_to_extract}")
         print("Note: For ARGO data, consider using extract_argo_data() method for better formatting.")

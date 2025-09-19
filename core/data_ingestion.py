@@ -131,7 +131,7 @@ class ArgoFloatScanner:
         
         # Create a nice table showing selected floats
         table = Table(title=f"[bold cyan]Selected {actual_count} Random Float IDs[/bold cyan]", 
-                     show_header=True, header_style="bold magenta", box=box.ROUNDED)
+                      show_header=True, header_style="bold magenta", box=box.ROUNDED)
         
         # Add columns
         cols = 5
@@ -297,7 +297,7 @@ class ArgoFloatScanner:
         
         # Create main summary table
         summary_table = Table(title="[bold cyan]Scan Summary[/bold cyan]", 
-                             show_header=True, header_style="bold magenta", box=box.ROUNDED)
+                              show_header=True, header_style="bold magenta", box=box.ROUNDED)
         summary_table.add_column("Metric", style="cyan", justify="left")
         summary_table.add_column("Count", style="green bold", justify="center")
         
@@ -311,7 +311,7 @@ class ArgoFloatScanner:
         # Detailed float table
         if self.float_locations:
             detail_table = Table(title="[bold green]Float Details[/bold green]", 
-                               show_header=True, header_style="bold blue", box=box.ROUNDED)
+                                 show_header=True, header_style="bold blue", box=box.ROUNDED)
             detail_table.add_column("Float ID", style="cyan", justify="center")
             detail_table.add_column("Files", style="green", justify="center")
             detail_table.add_column("Years Present", style="yellow", justify="left")
@@ -376,7 +376,7 @@ class ArgoFloatScanner:
         try:
             # Phase 1: Collect all float IDs
             phase1 = Panel("[bold cyan]Phase 1: Discovering all float IDs[/bold cyan]", 
-                          border_style="cyan")
+                           border_style="cyan")
             self.console.print(phase1)
             all_float_ids = self.collect_all_float_ids()
             
@@ -386,19 +386,19 @@ class ArgoFloatScanner:
             
             # Phase 2: Select random floats
             phase2 = Panel("[bold magenta]Phase 2: Selecting random floats[/bold magenta]", 
-                          border_style="magenta")
+                           border_style="magenta")
             self.console.print(phase2)
             self.select_random_floats(all_float_ids, num_floats)
             
             # Phase 3: Search for selected floats
             phase3 = Panel("[bold yellow]Phase 3: Searching for selected floats[/bold yellow]", 
-                          border_style="yellow")
+                           border_style="yellow")
             self.console.print(phase3)
             self.search_selected_floats()
             
             # Phase 4: Verify and Download files
             phase4 = Panel("[bold green]Phase 4: Verifying and downloading files[/bold green]", 
-                          border_style="green")
+                           border_style="green")
             self.console.print(phase4)
             self.download_files()
             
