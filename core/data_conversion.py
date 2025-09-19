@@ -82,7 +82,7 @@ class NetCDFParser:
             # Coordinate variables usually have the same name as their dimension
             if (len(var_info['dimensions']) == 1 and
                 var_info['dimensions'][0] == var_name):
-                coordinates[var_name] = self.dataset.variables[var_name][:]
+                coordinates[var_name] = self.dataset.variables[var_name][:] # type: ignore
                 print(f"Found coordinate variable: {var_name}")
 
         return coordinates
@@ -243,16 +243,16 @@ class NetCDFParser:
                     profile_meta[var_name] = value
                 except Exception as e:
                     print(f"Warning: Could not extract {var_name} for profile {prof_idx}: {e}")
-                    profile_meta[var_name] = None
+                    profile_meta[var_name] = None # type: ignore
 
             # Convert Julian day to readable date if available
             if 'juld' in profile_meta and profile_meta['juld'] is not None:
                 try:
                     ref_date = datetime(1950, 1, 1)
                     actual_date = ref_date + timedelta(days=float(profile_meta['juld']))
-                    profile_meta['date'] = actual_date.strftime('%Y-%m-%d %H:%M:%S')
+                    profile_meta['date'] = actual_date.strftime('%Y-%m-%d %H:%M:%S') # type: ignore
                 except:
-                    profile_meta['date'] = None
+                    profile_meta['date'] = None # type: ignore
 
             # Extract measurements for this profile dynamically
             for level_idx in range(n_levels):
