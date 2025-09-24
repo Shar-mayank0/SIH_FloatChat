@@ -124,7 +124,7 @@ def _extract_profile_id_from_filename(path: Path) -> Optional[int]:
 		return None
 
 
-def _prepare_profiles(df: pd.DataFrame, profile_id: Optional[int]) -> pd.DataFrame:
+def _prepare_profiles(df: pd.DataFrame, profile_id: Optional[int], stats: Optional[dict] = None) -> pd.DataFrame:
 	# force profile_id from filename if available
 	df = df.copy()
 	if profile_id is not None:
@@ -139,6 +139,12 @@ def _prepare_profiles(df: pd.DataFrame, profile_id: Optional[int]) -> pd.DataFra
 	# convert profile_date from string to date
 	if "profile_date" in subset.columns and not subset["profile_date"].isna().all():
 		subset["profile_date"] = pd.to_datetime(subset["profile_date"], errors="coerce").dt.date
+
+	# Add calculated statistics if provided
+	if stats:
+		for stat_key, stat_value in stats.items():
+			subset[stat_key] = stat_value
+
 	# make types psycopg2-friendly
 	subset = _df_to_python(subset)
 	return subset
@@ -159,6 +165,38 @@ def _prepare_measurements(df: pd.DataFrame, profile_id: Optional[int]) -> pd.Dat
 	return subset
 
 
+def _calculate_profile_stats(df: pd.DataFrame) -> dict:
+	"""Calculate min/max statistics for level, pres, psal, and temp columns.
+
+	Args:
+		df: DataFrame containing measurement data for a profile
+
+	Returns:
+		dict: Dictionary containing min/max values for each measurement type
+	"""
+	stats = {}
+
+	# Define the columns we want to calculate stats for
+	stat_columns = ['level', 'pres', 'psal', 'temp']
+
+	for col in stat_columns:
+		if col in df.columns:
+			# Filter out non-numeric values and NaNs
+			numeric_data = pd.to_numeric(df[col], errors='coerce').dropna()
+
+			if len(numeric_data) > 0:
+				stats[f'min_{col}'] = float(numeric_data.min())
+				stats[f'max_{col}'] = float(numeric_data.max())
+			else:
+				stats[f'min_{col}'] = None
+				stats[f'max_{col}'] = None
+		else:
+			stats[f'min_{col}'] = None
+			stats[f'max_{col}'] = None
+
+	return stats
+
+
 def _upsert_profiles(engine: Engine, rows: Iterable[Tuple]) -> None:
 	if not rows:
 		return
@@ -166,7 +204,8 @@ def _upsert_profiles(engine: Engine, rows: Iterable[Tuple]) -> None:
 		"profile_id, platform_number, project_name, pi_name, cycle_number, direction, "
 		"data_centre, dc_reference, data_state_indicator, data_mode, platform_type, float_serial_no, firmware_version, "
 		"wmo_instrument_type, juld, juld_qc, juld_location, latitude, longitude, position_qc, positioning_system, "
-		"profile_pres_qc, profile_temp_qc, profile_psal_qc, vertical_sampling_scheme, config_mission_number, profile_date"
+		"profile_pres_qc, profile_temp_qc, profile_psal_qc, vertical_sampling_scheme, config_mission_number, profile_date, "
+		"min_level, max_level, min_pres, max_pres, min_psal, max_psal, min_temp, max_temp"
 	)
 	insert_sql = f"""
 	INSERT INTO argo_profiles ({cols_sql})
@@ -197,7 +236,15 @@ def _upsert_profiles(engine: Engine, rows: Iterable[Tuple]) -> None:
 		profile_psal_qc = EXCLUDED.profile_psal_qc,
 		vertical_sampling_scheme = EXCLUDED.vertical_sampling_scheme,
 		config_mission_number = EXCLUDED.config_mission_number,
-		profile_date = EXCLUDED.profile_date
+		profile_date = EXCLUDED.profile_date,
+		min_level = EXCLUDED.min_level,
+		max_level = EXCLUDED.max_level,
+		min_pres = EXCLUDED.min_pres,
+		max_pres = EXCLUDED.max_pres,
+		min_psal = EXCLUDED.min_psal,
+		max_psal = EXCLUDED.max_psal,
+		min_temp = EXCLUDED.min_temp,
+		max_temp = EXCLUDED.max_temp
 	"""
 	conn = engine.raw_connection()
 	try:
@@ -252,14 +299,18 @@ def ingest_csv_folder_to_neon(csv_folder: str = "data/csv", chunk_rows: int = 20
 			try:
 				profile_id = _extract_profile_id_from_filename(csv_path)
 				for chunk in pd.read_csv(csv_path, chunksize=chunk_rows):
-					profiles_df = _prepare_profiles(chunk, profile_id)
+					# Calculate statistics from the measurement data
+					stats = _calculate_profile_stats(chunk)
+
+					profiles_df = _prepare_profiles(chunk, profile_id, stats)
 					if not profiles_df.empty:
 						rows = [
 							tuple(_to_python_scalar(profiles_df.get(col, pd.Series([None]*len(profiles_df))).iloc[i]) for col in [
 								"profile_id","platform_number","project_name","pi_name","cycle_number","direction",
 								"data_centre","dc_reference","data_state_indicator","data_mode","platform_type","float_serial_no","firmware_version",
 								"wmo_instrument_type","juld","juld_qc","juld_location","latitude","longitude","position_qc","positioning_system",
-								"profile_pres_qc","profile_temp_qc","profile_psal_qc","vertical_sampling_scheme","config_mission_number","profile_date"
+								"profile_pres_qc","profile_temp_qc","profile_psal_qc","vertical_sampling_scheme","config_mission_number","profile_date",
+								"min_level","max_level","min_pres","max_pres","min_psal","max_psal","min_temp","max_temp"
 								])
 							for i in range(len(profiles_df))
 						]

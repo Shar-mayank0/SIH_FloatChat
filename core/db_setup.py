@@ -81,6 +81,14 @@ class DB:
 		vertical_sampling_scheme TEXT,
 		config_mission_number   INT,
 		profile_date            DATE,
+		min_level               DOUBLE PRECISION,
+		max_level               DOUBLE PRECISION,
+		min_pres                DOUBLE PRECISION,
+		max_pres                DOUBLE PRECISION,
+		min_psal                DOUBLE PRECISION,
+		max_psal                DOUBLE PRECISION,
+		min_temp                DOUBLE PRECISION,
+		max_temp                DOUBLE PRECISION,
 		embedding               vector(1536)
 	);
 
@@ -117,6 +125,35 @@ class DB:
 	def init_db(self) -> None:
 		self.init_extensions()
 		self.create_schema()
+
+	def get_all_table_columns(self) -> dict[str, list[str]]:
+		"""Return a dictionary of {table_name: [column_names]} for all user tables."""
+		tables_query = """
+		SELECT table_name
+		FROM information_schema.tables
+		WHERE table_schema = 'public'
+		AND table_type = 'BASE TABLE'
+		ORDER BY table_name;
+		"""
+
+		columns_query = """
+		SELECT column_name
+		FROM information_schema.columns
+		WHERE table_name = :table_name
+		ORDER BY ordinal_position;
+		"""
+
+		results = {}
+		with self.engine.begin() as conn:
+			# Get all table names
+			tables = [row[0] for row in conn.execute(text(tables_query))]
+
+			# Get columns for each table
+			for table in tables:
+				cols = conn.execute(text(columns_query), {"table_name": table})
+				results[table] = [row[0] for row in cols]
+
+		return results
 
 
 # Module-level cached engine for reuse across the app
