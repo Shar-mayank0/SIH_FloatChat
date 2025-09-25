@@ -126,6 +126,7 @@ class QueryEngine:
         - psal_qc (TEXT): Quality control flag for salinity
         - psal_adjusted_qc (TEXT): QC flag for adjusted salinity
         
+        
         RELATIONSHIP: measurements.profile_id → argo_profiles.profile_id (Many-to-One)
         
         IMPORTANT NOTES:
@@ -191,203 +192,42 @@ class QueryEngine:
             template=template
         )
     
-    def _clean_sql_query(self, query_text: str) -> str:
-        """
-        Clean and extract SQL query from LLM response.
-        Simple, direct approach to remove markdown and extract SQL.
-        """
-        print("\n[DEBUG] _clean_sql_query() - Raw input:")
-        print(f"[DEBUG] {repr(query_text)}")
+    def send_groq_request(self, query: str):
+        """Send a request to the Groq LLM and return the response."""
+        print(f"[DEBUG] Sending query to Groq LLM: {query}")
         
-        if not query_text:
-            print("[ERROR] Empty query text received")
-            raise ValueError("Empty query text received")
+        # Get table info from the database
+        table_info = self.db.get_table_info()
         
-        # Step 1: Remove the SQLQuery: prefix
-        print("[DEBUG] Step 1: Removing SQLQuery: prefix")
-        query_text = re.sub(r'^SQLQuery:\s*', '', query_text, flags=re.IGNORECASE)
-        print(f"[DEBUG] After Step 1: {repr(query_text)}")
+        # Format the prompt with the query and table info
+        formatted_prompt = self.custom_prompt.format(input=query, table_info=table_info)
+        print(f"[DEBUG] Formatted prompt: {formatted_prompt}")
         
-        # Step 2: Extract content between ```sql and ``` if present
-        print("[DEBUG] Step 2: Extracting content between ```sql and ```")
-        sql_block_match = re.search(r'```sql\s*(.*?)\s*```', query_text, re.DOTALL | re.IGNORECASE)
-        if sql_block_match:
-            query_text = sql_block_match.group(1).strip()
-            print(f"[DEBUG] Extracted from code block: {repr(query_text)}")
+        # Send the formatted prompt to the LLM
+        response = self.llm.invoke(formatted_prompt)
+        print(f"[DEBUG] Received response from Groq LLM")
+        print(f"[DEBUG] Raw LLM response: {response}")
+        return response
+        
+    def get_sql_from_response(self, response) -> str:
+        """Extract the SQL query from the LLM response."""
+        print(f"[DEBUG] Extracting SQL from response")
+        # Check if response has content attribute (LangChain response object)
+        if hasattr(response, 'content'):
+            sql_query = response.content.strip()
         else:
-            # Step 3: If no block, try to remove just the markers
-            print("[DEBUG] No code block found, removing just the markers")
-            query_text = re.sub(r'```sql', '', query_text, flags=re.IGNORECASE)
-            query_text = re.sub(r'```', '', query_text)
-            print(f"[DEBUG] After removing markers: {repr(query_text)}")
-        
-        # Step 4: Remove any trailing semicolon for SQLAlchemy
-        print("[DEBUG] Step 4: Removing trailing semicolon if present")
-        query_text = re.sub(r';\s*$', '', query_text.strip())
-        print(f"[DEBUG] Final cleaned query: {repr(query_text)}")
-        return query_text
+            # Fallback for string responses
+            sql_query = str(response).strip()
+        return sql_query
     
-    def _validate_sql_query(self, query: str) -> Tuple[bool, str]:
-        """
-        Validate SQL query for basic syntax and security.
-        Returns (is_valid, error_message)
-        """
-        if not query or not query.strip():
-            return False, "Empty query"
-        
-        # Check for dangerous operations
-        dangerous_keywords = ['DROP', 'DELETE', 'TRUNCATE', 'ALTER', 'CREATE', 'INSERT', 'UPDATE']
-        query_upper = query.upper()
-        
-        for keyword in dangerous_keywords:
-            if keyword in query_upper:
-                return False, f"Dangerous operation detected: {keyword}"
-        
-        # Basic SQL validation - should start with SELECT
-        if not query_upper.strip().startswith('SELECT'):
-            return False, "Query must start with SELECT"
-        
-        # Check for balanced parentheses
-        if query.count('(') != query.count(')'):
-            return False, "Unbalanced parentheses"
-        
-        return True, "Valid"
+    # now execute the sql query
+    def execute_sql(self, sql_query: str):
+        """Execute the given SQL query and return the results."""
+        print(f"[DEBUG] Executing SQL query: {sql_query}")
+        with self.engine.connect() as connection:
+            result = connection.execute(text(sql_query))
+            rows = result.fetchall()
+            print(f"[DEBUG] Query executed successfully, fetched {len(rows)} rows")
+            return rows
     
-    def get_schema_info(self) -> Dict[str, Any]:
-        """Get detailed schema information for the database."""
-        try:
-            inspector = inspect(self.engine)
-            schema_info = {}
-            
-            for table_name in inspector.get_table_names():
-                columns = inspector.get_columns(table_name)
-                schema_info[table_name] = {
-                    "columns": [
-                        {
-                            "name": col["name"],
-                            "type": str(col["type"]),
-                            "nullable": col["nullable"],
-                            "default": col["default"]
-                        }
-                        for col in columns
-                    ],
-                    "primary_keys": inspector.get_pk_constraint(table_name)["constrained_columns"],
-                    "foreign_keys": [
-                        {
-                            "constrained_columns": fk["constrained_columns"],
-                            "referred_table": fk["referred_table"],
-                            "referred_columns": fk["referred_columns"]
-                        }
-                        for fk in inspector.get_foreign_keys(table_name)
-                    ]
-                }
-            
-            return schema_info
-            
-        except Exception as e:
-            self.logger.error(f"Failed to get schema info: {e}")
-            return {}
 
-    def generate_and_execute_query(self, question: str) -> Dict[str, Any]:
-        """
-        Generate SQL query from natural language and execute it.
-        Returns structured response with query, results, and metadata.
-        """
-        cleaned_query: Optional[str] = None  # Initialize with type hint
-
-        try:
-            self.logger.info(f"Processing question: {question}")
-            
-            # Generate SQL query using the chain
-            raw_response = self.db_chain.invoke({"query": question})
-            
-            # Extract the query from the response
-            if isinstance(raw_response, dict):
-                query_text = raw_response.get('result', '')
-            else:
-                query_text = str(raw_response)
-            
-            self.logger.info(f"Raw LLM response: {query_text[:200]}...")
-            self.logger.info(f"FULL RAW RESPONSE: {repr(query_text)}")
-            
-            # Use a more aggressive approach to clean SQL
-            cleaned_query = self._really_clean_sql(query_text)
-            
-            self.logger.info(f"CLEANED QUERY: {repr(cleaned_query)}")
-            
-            # Validate the query
-            is_valid, validation_message = self._validate_sql_query(cleaned_query)
-            if not is_valid:
-                return {
-                    "success": False,
-                    "error": f"Invalid query: {validation_message}",
-                    "query": cleaned_query,
-                    "results": None
-                }
-            
-            # Execute the query
-            with self.engine.connect() as connection:
-                result = connection.execute(text(cleaned_query))
-                rows = result.fetchall()
-                columns = result.keys()
-                
-                # Convert to list of dictionaries
-                results = [dict(zip(columns, row)) for row in rows]
-            
-            return {
-                "success": True,
-                "query": cleaned_query,
-                "results": results,
-                "row_count": len(results),
-                "columns": list(columns)
-            }
-            
-        except Exception as e:
-            error_msg = str(e)
-            self.logger.error(f"Query execution failed: {error_msg}")
-            return {
-                "success": False,
-                "error": error_msg,
-                "query": cleaned_query,
-                "results": None
-            }
-
-    def _really_clean_sql(self, text: str) -> str:
-        """
-        Aggressively clean SQL query, guaranteed to remove all markdown.
-        """
-        self.logger.info(f"Starting aggressive cleaning of: {repr(text[:100])}...")
-        
-        # First, handle the SQLQuery: prefix
-        text = re.sub(r'^SQLQuery:\s*', '', text, flags=re.IGNORECASE)
-        
-        # Extract SQL from code block if possible
-        sql_match = re.search(r'```sql\s*(.*?)\s*```', text, re.DOTALL | re.IGNORECASE)
-        if sql_match:
-            cleaned = sql_match.group(1).strip()
-            self.logger.info(f"Extracted from code block: {repr(cleaned[:100])}...")
-        else:
-            # Brute force removal of markdown
-            cleaned = text
-            
-            # Remove all variations of markdown code blocks
-            for pattern in [
-                r'```sql\s*\n?', r'```\s*\n?', r'\n?\s*```\s*$', 
-                r'^```sql\s*', r'^```\s*', r'\s*```$', r'```'
-            ]:
-                cleaned = re.sub(pattern, '', cleaned, flags=re.MULTILINE | re.IGNORECASE)
-            
-            self.logger.info(f"After removing markdown: {repr(cleaned[:100])}...")
-        
-        # Remove trailing semicolon
-        cleaned = re.sub(r';\s*$', '', cleaned.strip())
-        
-        # Make sure query starts with SELECT
-        if not re.match(r'^\s*SELECT', cleaned, re.IGNORECASE):
-            select_match = re.search(r'(SELECT\s+.*)', cleaned, re.IGNORECASE | re.DOTALL)
-            if select_match:
-                cleaned = select_match.group(1)
-                self.logger.info(f"Extracted query starting with SELECT: {repr(cleaned[:100])}...")
-        
-        self.logger.info(f"Final cleaned query: {repr(cleaned)}")
-        return cleaned.strip()
