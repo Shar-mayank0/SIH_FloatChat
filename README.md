@@ -1,5 +1,9 @@
 # Oceanographic Data Analysis Chatbot: Technical Documentation
 
+---
+UI Demo - [FloatChat](floatchat-taupe.vercel.app)
+----
+
 ## Table of Contents
 
 1. [System Overview](#system-overview)
